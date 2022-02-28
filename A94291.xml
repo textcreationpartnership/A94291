@@ -1,0 +1,1175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cheiragogia heliana. A manuduction to the philosopher's magical gold: out of which profound, and subtile discourse; two of the particullar tinctures, that of Saturn and Jupiter conflate; and of Jupiter single, are recommended as short and profitable works, by the restorer of it to the light. To which is added; Antron Mitras; Zoroaster's cave: or, An intellectuall echo, &amp;c. Together with the famous Catholic epistle of John Pontanus upon the minerall fire. / By Geo. Thor. Astromagus.</title>
+            <author>Thor., George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94291</idno>
+            <idno type="STC">Wing T1037</idno>
+            <idno type="STC">Thomason E1911_2</idno>
+            <idno type="STC">ESTC R209984</idno>
+            <idno type="EEBO-CITATION">99868827</idno>
+            <idno type="PROQUEST">99868827</idno>
+            <idno type="VID">170553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170553)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 237:E1911[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cheiragogia heliana. A manuduction to the philosopher's magical gold: out of which profound, and subtile discourse; two of the particullar tinctures, that of Saturn and Jupiter conflate; and of Jupiter single, are recommended as short and profitable works, by the restorer of it to the light. To which is added; Antron Mitras; Zoroaster's cave: or, An intellectuall echo, &amp;c. Together with the famous Catholic epistle of John Pontanus upon the minerall fire. / By Geo. Thor. Astromagus.</title>
+                  <author>Thor., George.</author>
+               </titleStmt>
+               <extent>[12], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphrey Moseley at the Prince's Armes in St Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octo:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170553:1" rendition="simple:additions"/>
+            <p>
+               <hi>CHEIRAGOGIA HELIANA.</hi> A MANUDUCTION To the Philoſopher's MAGICAL GOLD: Out of which Profound, and Subtile Diſcourſe; Two of the particular Tinctures, That of Saturn and Jupiter Conflate; and of Jupiter Single, are recommended as ſhort and pro<g ref="char:EOLhyphen"/>fitable Works, by the Reſtorer of It to the Light. To which is added; ΑΝΤΡΟΝ ΜΙΤΡΑΣ; ZOROASTER'S CAVE: Or, an Intellectuall Echo, &amp;c. Together with The Famous Catholic Epiſtle of <hi>JOHN PONTANUS</hi> upon the Minerall Fire.</p>
+            <p>By <hi>Geo. Thor.</hi> Aſtromagus.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Humphrey Moſeley</hi> at the <hi>Prince's Armes</hi> in St <hi>Paul's</hi> Church-yard. 1659.</p>
+            <pb facs="tcp:170553:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170553:2"/>
+            <head>To the Students in Magic, for Aſtrall Secrets:</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or to thoſe who look upon this Sa<g ref="char:EOLhyphen"/>cred Science, (ſo the wiſe <hi>De<g ref="char:EOLhyphen"/>mocritus</hi> calls it) as on the Poet's <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>- Ariſto<g ref="char:EOLhyphen"/>phan's <hi>Cuccow-Town in the Clowds,</hi> and name it our Sparta; I have no<g ref="char:EOLhyphen"/>thing to ſay but only this: That they are ſuch as are ſhut up, by a wonderfull, and neceſ<g ref="char:EOLhyphen"/>ſary providence of God, under the vaſt, hea<g ref="char:EOLhyphen"/>vie cloud of the vulgar, from which they are never like to eſcape: And to the Gyant of Conceipt, him that comes up boldly to lay his hands on this Veſtal, without the Ordinary Dignifications, competent Learning, Wit, &amp; Manners, only, two words—<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>utrum homo, an Priapus?</hi> And ſo, I bid them both Farewell.</p>
+            <pb facs="tcp:170553:3"/>
+            <p>It is to you that I ſend this Golden Ma<g ref="char:EOLhyphen"/>nuall; a pretious diſcourſe on the Magicall Gold: <hi>Aurum enim noſtrum non eſt au<g ref="char:EOLhyphen"/>rum vulgi;</hi> and I ſhall give you an account of my Election of This out of ſome hundreds that I have readd, after a ſhort Introit.</p>
+            <p>It is not unknown to you, that there is a certaine Tongue, that is the Tongue of My<g ref="char:EOLhyphen"/>ſteries, call'd by <hi>Ficinus, Lingua Magica,</hi> and ſometimes <hi>Lingua Angelorum;</hi> and indeed, it is <hi>Lingua Ipſius Ternarii San<g ref="char:EOLhyphen"/>cti;</hi> for almoſt all the Hagiography is in it; all the Cabaliſm of the Hebrews; and with<g ref="char:EOLhyphen"/>out the ambit of that, nothing that's Admi<g ref="char:EOLhyphen"/>rable. This Tongue is not only abſolutely neceſſary, and wiſely fitted to vail her Secrets from the unworthy and prophane: but is alſo bravely proportion'd to the Olympus, or the Intellectuall Imaginations of Man (to ſpeak the language while I praiſe it; and withall interpret the ſublime Demonſtrations) <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—.That Man, who is diſcended from God; has in him<g ref="char:EOLhyphen"/>ſelfe a ſenſe of him; and turnes his mind towards him; might, like a generous
+<pb facs="tcp:170553:3"/> Scholler be taught by Myſtic words.—And yet it is not every Artiſt who has offer'd at this Tongue, that has the right felicity to it; nay indeed, not very many out of the whole <hi>Sacra Corona,</hi> can be ſhown, who have offe<g ref="char:EOLhyphen"/>red ſo much as a Roſe to the true Venus of the Language, the ſweet and ſecret Cytherea! <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Cytherea! Their words are often barbarous, their clauſes and periods rude and harſh, their whole compoſure ſo careleſſe and looſe; that the common Dignity of a man, who comes to read, is utterly forgot and loſt with the dignity of the Argument it ſelfe. Then again, their moſt induſtrious Involu<g ref="char:EOLhyphen"/>tions; their Inverſions of Method; their confuſions of the Works; their perverſions of the ſenſe of one place by another, makes all ſo dark and intricate, that <hi>Lycophron's Caſ<g ref="char:EOLhyphen"/>ſandra,</hi> where ſhe beginns, and holds on, her heavie I ambics over Troy</p>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>From the top of</hi> Ate, <hi>whither the Cow wan<g ref="char:EOLhyphen"/>dred;</hi> to theirs is meere tranſient, &amp; pervious Reading. But this Anonymus, whoſoever he was, is ſo far from ſuch unskilfulneſſe, &amp; need<g ref="char:EOLhyphen"/>leſs envie, that in an endeavour to give us
+<pb facs="tcp:170553:4"/> more frequent, and brighter ſtrictures of the Light, he has runne himſelfe almoſt out of the Magic Tongue. And is not that ſomwhat raru? Beſides the Diſcourſe, a <hi>Charta Lacera</hi> of his ſayes it, <hi>Scripta eſt igitur horis ſubciſi<g ref="char:EOLhyphen"/>vis Aperta haec Tractatio à nobis, de Au<g ref="char:EOLhyphen"/>ro Philoſophico, nec dum cognito, non Chymicorum Stylo (ut ſolent) allegori<g ref="char:EOLhyphen"/>co, ſed plano, ut Intelligatur Tinctura Solis, hactenus occultata, additis alijs, &amp;c.</hi> And yet, you need not fear but that he had a ſpark in him of that <hi>Cuſtodia Theo<g ref="char:EOLhyphen"/>maga</hi> which comes from God, and holds to him; of which the learned Frier <hi>Bachon, Ubi Deus magnam poſuit virtutem, ibi etiam magnam poſuit Cuſtodiam; uti patet in Viperis, &amp; Magorum Lapi<g ref="char:EOLhyphen"/>de:</hi> for he has writt to the only fixt law of the Tongue<hi>—Nil apertè, nil operté;</hi> of which more in his Programma to the Book.—And This I name the firſt, though not the greateſt of many Incitements, that made me chooſe it for you, and bring it forth out of that Lethe where it has layen un-obſerved.</p>
+            <p>The ſecond is, That in an extraordinarie manner, and to ſome peculiarity too, it treats
+<pb facs="tcp:170553:4"/> 
+               <hi>de Ente primo Univerſaliſſimi Minera<g ref="char:EOLhyphen"/>lis;</hi> Or, of the Univerſal moſt univerſal. <hi>Atque haec eſt anceps Sententia!</hi>
+            </p>
+            <p>The Third; That under the Moſt Univer<g ref="char:EOLhyphen"/>ſall, it repreſents and aſſerts to us, ſeverall Tinctures particular; A thing ſomewhat doubted by an able Philoſopher of my acquain<g ref="char:EOLhyphen"/>tance, who is now at the Greater Pyrotechny; and I was deſirous to give him my Authori<g ref="char:EOLhyphen"/>ties, from Theſe Great Names, as well as my reaſons, from our Electricall Compoſitions.</p>
+            <p>The Fourth; That there are in it ſo many and ſuch open glances at the Keyes of Art and Nature, as are not to be ſpied, and catcht, in any other that I know.</p>
+            <p>The Fifth, That two of the particular Tinctures, that of Saturne and Jupiter Con<g ref="char:EOLhyphen"/>flate; and of Jupiter Single; are apparent<g ref="char:EOLhyphen"/>ly ſhort, and profitable works: And thoſe I would recommend to ſuch as know the Ini<g ref="char:EOLhyphen"/>tiall mother to all Tinctures, and are not yet able to beare the charge (though not much) or wait the time of the great Work.</p>
+            <p>The Sixt, That it is a little golden Tripos, readie to move it ſelfe, and give anſwers to Enquiries concerning the Mineral &amp; Metal<g ref="char:EOLhyphen"/>lic
+<pb facs="tcp:170553:5"/> Tinctures of <hi>Iſaac Flander, Baſil Va<g ref="char:EOLhyphen"/>lentine,</hi> and <hi>Theophraſtus Paracelſus;</hi> and ſo may ſerve as a brief Complex of all, or moſt of their Aſtral Learning.</p>
+            <p>The Seventh; That by <hi>Citations,</hi> it touches upon certaine Curious Manuſcripts, no where elſe to be ſeen in their Sparks, and ſuch Semantics to what they are. <hi>Cum enim</hi> (ſayes his Charta to This) <hi>perlongo Tem<g ref="char:EOLhyphen"/>pore hanc Artem ſectatus fuerim, nec tantum perpetuis Cogitationibus, &amp; Studio Theoretico, multorumque Ma<g ref="char:EOLhyphen"/>nuſcriptorum Inſpectione, quorum mentio paſsim à nobis fit; ſed manuali inſuper labore, &amp; experientia propriâ, &amp; attentaverim &amp; compererim plurima; li<g ref="char:EOLhyphen"/>cebit mihi hujus Rei conditionem, &amp;c.</hi>
+            </p>
+            <p>And theſe are the Reaſons why you ſhould highly Accept of it, as well as they were to me to make the Choice.</p>
+            <p>The Second Tractate (collected from various reading, and not without ſome experience of my own) is an Echo to this, and within it ſelfe; as on the other hand, to old <hi>Pontan's</hi> Minerall Fire. I call it <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The Cave of <hi>Mitra,</hi> and render it <hi>Zoroaſter's</hi>
+               <pb facs="tcp:170553:5"/> Cave; becauſe in the Solitarie horror of a huge Cave, the ceremonies of <hi>Mitra,</hi> that is, of the Sun, were anciently erected by that great Chaldean, and thoſe no doubt of Magical In<g ref="char:EOLhyphen"/>ſtitute: ſuch as were the Sacra Eleuſinia, the Holyes of <hi>Ceres Eleuſina;</hi> concerning which, <hi>Eſchylus</hi> was thought to have ſpoken too much, and <hi>Sophocles</hi> has his Scintilla<g ref="char:EOLhyphen"/>tions.</p>
+            <q>
+               <p>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>The Golden Key that locks the the Tongues of the Eumolpidae, the Prieſts of</hi> Ceres.</p>
+            </q>
+            <p>ANd now upon the view of this litle Aſtro<g ref="char:EOLhyphen"/>magic Trias, &amp; its in auguration to the publick light, I cannot let it paſſe without its own <hi>Aucile,</hi> That Scutcheon that it weares from Heaven, that by its Stature it may not be taken for a <hi>Parvus Daemon Minorum Gentium.</hi> For a Genius of a lower order, or of the leſſer Nations. I ſay therefore, It has in it, the Green Salina; The viriditie of Na<g ref="char:EOLhyphen"/>ture to Mineral Starrs in Our Mercurie, the ſpinging Emerald, analogous to the Univer<g ref="char:EOLhyphen"/>ſall
+<pb facs="tcp:170553:6"/> Spirit. And whoſoever reads this book, though indeed but a ſmall volum to that Idea that it is ready to make, ſhall have no reaſon to, lament the <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>- the loſſe of thoſe bookes- <hi>The Sacred Co<g ref="char:cmbAbbrStroke">̄</g>mentaries of the Egyptians,</hi> named to us by the Greeks: For by this, in a ſhort time, he may not onely become a learned Initiant; but, by the favour of heaven upon his practice, a perfect Hiero<g ref="char:EOLhyphen"/>phant to the beſt of Secrets.</p>
+            <p>Other curious Pieces I have in my eye, for thoſe who are carious, and of a various rea<g ref="char:EOLhyphen"/>ding; thoſe I reſolve to draw out as I fit at my Athanar this winter, and ſend them a<g ref="char:EOLhyphen"/>broad with the ſame ſubſcription to your ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <closer>
+               <signed>
+                  <hi>GEO. THOR:</hi> Aſtromagus.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb facs="tcp:170553:6"/>
+            <head>PROGRAMMA AUTHORIS.</head>
+            <l>Sunt qui Saepè legant Chymicos Multúm<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> libellos,</l>
+            <l>Nec dena atting ant poſt quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Luſtra ſco<g ref="char:EOLhyphen"/>pum:</l>
+            <l>Nunc huc, nunc illuc incertis paſſibus acti,</l>
+            <l>Quos Labyrinthaeis flexibus ire patet.</l>
+            <l>Sunt alij invidiâ tacti, qui cuncta recondunt</l>
+            <l>Offuſis Tenebris, impediunt<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> bonos.</l>
+            <l>Scilicet ut Soliſapiant, Soli<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ptentur</l>
+            <l>Eſſe Sophi, queis nil quam ſua ſponſa placet.</l>
+            <l>Aequoris hanc inter Scyllam, vaſtam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Cha<g ref="char:EOLhyphen"/>rybdin</l>
+            <l>Alchymicam, in medio noſtra Carina natat.</l>
+            <l>Cholcidos Auriferam ut ſi quando ad littora Lanam,</l>
+            <l>Technophilus per me forte referre queat,</l>
+            <l>Inſcribat Spoliis Anagrammate nominis apto,</l>
+            <l>
+               <hi>Mi Nicolaus</hi> erat dux <hi>Niger Hapelius.</hi>
+            </l>
+            <pb facs="tcp:170553:7"/>
+         </div>
+      </front>
+      <body>
+         <div type="alchemical_treatise">
+            <pb n="1" facs="tcp:170553:7"/>
+            <head>CHEIRAGOGIA HELIANA.</head>
+            <head>A MANUDUCTION to the Philoſopher's Magical <hi>GOLD.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>ASILIUS VALENTIN</hi> a Benedictin monk, and, by his country, of the higher <hi>Alſatia,</hi> who, in the memory of our neerer anceſtors, excell'd in Magick and Chymiſtry, in his <hi>Triumphal Cha<g ref="char:EOLhyphen"/>riot</hi> of Antimony, pag. 242. where he treats of the Stone of Fire made of the Mercury of Antimony, writes directly to this Senſe: <hi>But the Stone of Fire</hi> (ſayes he) <hi>does not Tinge Univerſally, as the Philoſophers Stone does, which is prepared out of the Eſſence of Gold: No aſſuredly. For it has not alloited to It ſuch an Efficacy by Its Virtue: but It Tinges particular<g ref="char:EOLhyphen"/>ly, to wit,</hi> Luna <hi>into</hi> Sol <hi>beſides</hi> Saturn <hi>and</hi> Jupiter, <hi>omitting</hi> Mars <hi>and</hi> Venus, <hi>ſave only,</hi>
+               <pb n="2" facs="tcp:170553:8"/> 
+               <hi>that a little Gold, after projection upon Them, may be had from them too by way of Separation:</hi> Item; <hi>This Tincture</hi> (ſayes he) <hi>by one part of it, cannot Tranſmute above five, that remain fixt in</hi> Saturn, <hi>Antimony, quartation, and Ad<g ref="char:EOLhyphen"/>urents: when on the other ſide, The True, anci<g ref="char:EOLhyphen"/>ent, and Great Stone of the Philoſophers, tranſ<g ref="char:EOLhyphen"/>mutes to a kinde of Immenſity. In like manner, The Stone of Fire in Augmentation of Itſelfe, cannot further be Exalted: But the Gold is pure and fixt.</hi> So a little after, <hi>pag.</hi> 244, <hi>The reader</hi> (he addes) <hi>is to be advertis'd, That there are Stones to be found of more than One kind, that Tinge particularly. For All the fixt powders That Tinge, I call Stones; but One gives Tincture more Efficaciouſly and deeply than Another: as the Philoſophers Stone firſt, That has its right of precedence to All. This, The Tincture of</hi> Sol <hi>&amp;</hi> Luna, <hi>to Red and White, follows in Order: next to That, the Tincture of the Vitriol of</hi> Venus <hi>and</hi> Mars, <hi>both of which have in their own depth, the Tincture of</hi> Sol, <hi>if they be brought to a permanent fixity. The E<g ref="char:EOLhyphen"/>lixir of</hi> Jupiter <hi>and</hi> Saturn, <hi>for the Coagula<g ref="char:EOLhyphen"/>tion of Common Mercury to Gold, follows That Tincture next. Laſt, comes the Tincture of Mer<g ref="char:EOLhyphen"/>cury It ſelf. And This is the Difference</hi> (ſayes he) <hi>and Multiplicity of Stones, and Tinctures. All theſe Tinctures,</hi> (he further adds) <hi>proceed from One and The ſame Seed, from One and The</hi>
+               <pb n="3" facs="tcp:170553:8"/> 
+               <hi>ſame Initial mother, from whence the True U<g ref="char:EOLhyphen"/>niverſal ſprings. Out of the Compaſs of Theſe</hi> (he addes) <hi>there is no other Metallic Tincture to be found in any Thing, whatſoever name it's call'd by. The other Nobler and Ignobler Stones, I mind not now; and will have nothing to doe with them here, becauſe they are of no force but only to Medicin. In like manaer of Animal, Vegetal, and Min <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one, I make no mention, as they ſtand and are ordain'd only to Med'cinal Uſe, and have not the leaſt ability to the leaſt Metallic work; the power of All which, is to be found in an Exceſſe under One Complex of the Philoſophers Great Stone. None of the Salts have any Tingent power: They are only keyes to the preparation of Stones, otherwiſe of them<g ref="char:EOLhyphen"/>ſelves they can do nothing; but as for the Salts of mettals and minerals (now I ſay ſomething to thee, if thou canſt perceive aright what Diffe<g ref="char:EOLhyphen"/>rence of mineral Salts I think upon) They are not to be omitted or rejected from thy works as to Aſtral Tincture and this becauſe we cannot want Them in our Compoſitions. For in Theſe is to be found that excellent Treaſure, whence all ſixation with perſeverance, takes its origi<g ref="char:EOLhyphen"/>nal, and has its True and Genuine Baſe.</hi> Thus far <hi>Baſilius Valentin.</hi>
+            </p>
+            <p>This Sublime and Incomparable Philoſo<g ref="char:EOLhyphen"/>pher before the Time of <hi>Paracelſus,</hi> layes here the Foundation of the whole Univerſal
+<pb n="4" facs="tcp:170553:9"/> Moſt Univerſal, and of all the Stones and Tinctures in the mineral Kingdome; out of which, metallic Tinctures (in other Things, by Themſelves) ought not to be ſought, as he atteſts in many places. But in This, he moſt evidently ſhows, beſides the Original, Great Univerſal of the Seed and Initial mo<g ref="char:EOLhyphen"/>ther, out of which the other Tinctures pro<g ref="char:EOLhyphen"/>ceed (although he names Them not expreſ<g ref="char:EOLhyphen"/>ly), that there are Six diſtinct differing Stones and Tinctures, of which one Tinges ſtill more powerfully then Another can. And in the beginning of his Triumphal Cha<g ref="char:EOLhyphen"/>riot of Antimony, he deſcribes fairly to us The Stone of Fire, or Tincture of Antimony, whoſe Mercury he teaches to precipitate with Oyle of Vitriol out of <hi>Mars,</hi> and in his own proper Sweet, red Oile, that is ex<g ref="char:EOLhyphen"/>tracted from the Sulphur and Salt of Anti<g ref="char:EOLhyphen"/>mony by the mean of the Spirit of Wine, and driven by the Retort, to diſſolve and af<g ref="char:EOLhyphen"/>terwards to fixe it into a Tingent, fluent Stone. This indeed is a particular Tincture of Antimony, and yet it is certain <hi>Paracelſus</hi> did ſo Exalt it, and by ſubtile preparations, then by reverberations, afterwards by Subli<g ref="char:EOLhyphen"/>mations, Digeſtions, Separations and Diſtil<g ref="char:EOLhyphen"/>lations; at laſt, by various reductions and re<g ref="char:EOLhyphen"/>ſolutions, (as himſelfe affirms in the fourth of his Archidoxes) brought it to ſuch a point
+<pb n="5" facs="tcp:170553:9"/> of high Temper, that all the admirable virtue of it was not to be found by the Wit of man; That by which it paſt through even all metals without diminution of its force, and made them perfect, and yet to it ſelf was ſtill ſufficient to Tinge more and more yet; nor That, by which it was apparently able to propagate humane bodyes Sound and Strong to the Tenth Generation.</p>
+            <p>To Antimony, Sulphur is not unlike. The mineral (for both of Them are to be referr'd to the vitriolates) of which, <hi>Theo hraſtus</hi> ſayes thus: That, That is not In It, we may attain by the help of the Other; by, It, mea<g ref="char:EOLhyphen"/>ning the magnetick Spirit of the World, which is the Philoſophers True Magneſia. And That (ſayes he) will follow the Cap<g ref="char:EOLhyphen"/>tain of Art (that is, <hi>Helias</hi> the Artiſt) cloſe. But after what manner the Stone of Fire out of the Three Intrinſics of Antimony, by in<g ref="char:EOLhyphen"/>tervention of Oyle of the vitriol of <hi>Mars</hi> and <hi>Venus,</hi> ought to be prepared, <hi>Baſilius</hi> tea<g ref="char:EOLhyphen"/>ches, not only in his <hi>Triumphal Chariot</hi> here and there, but more collectedly, and in an open method, he ſeemes to have treated of it in the <hi>manuſcript</hi> of his <hi>Manual prac<g ref="char:EOLhyphen"/>tice.</hi>
+            </p>
+            <p>After the Stone of Fire, next he mentions the Philoſophers Stone, and gives it the high<g ref="char:EOLhyphen"/>eſt place, to wit, in reſpect of the other Tin<g ref="char:EOLhyphen"/>ctures
+<pb n="6" facs="tcp:170553:10"/> Univerſal, but not of the <hi>Univerſal Moſt Univerſal,</hi> as I ſhall ſhow and prove a<g ref="char:EOLhyphen"/>non. But he affirms the Stone is made out of the <hi>Eſſence</hi> of <hi>Gold,</hi> and Truly indeed; but not as we ſhall heare, without the Addition of the Salt of Nature both Simple and Com<g ref="char:EOLhyphen"/>pound: whence <hi>Alchymia,</hi> the name of the Art, is pointed out; <hi>Halchymia,</hi> that is, a fu<g ref="char:EOLhyphen"/>ſion of Salt, by the Ingenious <hi>Chryſippus Fannian.</hi>
+            </p>
+            <p>The third is the Tincture of the Sun, or of Gold The moſt Philoſophical, and follows immediately The Philoſophers Stone. This conſiſts of Gold Alone or chiefly, and That Philoſophical deſcribed by me, for which Cauſe it differs from the Stone Itſelfe, al<g ref="char:EOLhyphen"/>though there are various preparations of it. For indeed, the Great Stone is made out of the Eſſence, and the very aſtral Tincture of Gold: But this Tincture of the Sun, inſtead of the fuſile Salt of Nature, is content with his own Salt, and comes out of the three principles of Gold Philoſophical reſolved, depurated, and conjoyn'd, as we ſhal tell you towards the End.</p>
+            <p>The fourth Tincture according to the Sentence of our <hi>Baſil,</hi> is the Tincture of <hi>Mars</hi> and <hi>Venus</hi> Conflate, that is, of the white, and red Spirit of their vitriol, which is the Mercury and Sulphur of both, together
+<pb n="7" facs="tcp:170553:10"/> with their fixt Salt, out of which this Tin<g ref="char:EOLhyphen"/>cture is had: although without the vulgar Sol, wherewith it is to be Incorporated, it cannot be perfected; becauſe with It, it is firſt to be fixt, as <hi>Baſil</hi> witneſſes, in his book of Naturals, and Supernaturals, <hi>Ch.</hi> 2. <hi>pag.</hi> 28. in theſe very words, <hi>Becauſe</hi> (ſayes he) <hi>he Tin<g ref="char:EOLhyphen"/>cture of the Sun is no where more abundantly found, then in</hi> Mars <hi>and</hi> Venus, <hi>as in male and female,</hi> Their bodyes are deſtroyed, and their Tingent Spirit is driven forth, to Satiate o<g ref="char:EOLhyphen"/>pen'd prepared Gold with Its own blood, and by its proper meat and drink to make it fugitive and volatil. Then anon, This vo<g ref="char:EOLhyphen"/>latil Gold thus Satiate with Its own meat and its own drinke, reſumes its own blood, and Dryes it up by Its own Internal Heat, by the help of a vaporous fire, whence enſues another victory, which makes it fully fixt, and highly perſeverant, ſo that now the Gold is med'cin more then fixt. To the ſame Senſe, the ſame Author, ſome pages after adds; Although the <hi>Mars</hi> and <hi>Venus</hi> (of this Art) doe not ſtand in need of any veſture, but are able to give it to the other five; yet I dare conſtantly affirme and aſſert it, that without Our Lyon, (that is, without Gold reſerate and prepar'd as aforeſaid) they can do juſt nothing at all, becauſe we doe not ſee, and provide againſt the peremptory fixity of
+<pb n="8" facs="tcp:170553:11"/> their Mercury, and the malleability of their Salt, to have gain from them: unleſſe the Ly<g ref="char:EOLhyphen"/>on conquer them again in a great Scuffle, and both be brought not onely to perfect Solution, but final fixation, as he taught a<g ref="char:EOLhyphen"/>fore.</p>
+            <p>But here we meet with a Great and notable Objection, that bids us ſtand to anſwer it. For <hi>Baſil,</hi> in the twenty ninth page of this Chapter, does not only ſay plainly, That the Tincture of <hi>Venus</hi> and <hi>Mars</hi> without Gold reſolved (as was ſaid a little before) can doe nothing: but he alſo affirmes of the vulgar Gold, whoſe Tincture is to be joyn'd with the Tincture of <hi>Mars</hi> and <hi>Venus;</hi> That the Lord of all the planets (namely Gold) is not able to impart to his Subjects any thing of his own veſture: becauſe nature has given to it but only One rich Suit; unleſſe the Ser<g ref="char:EOLhyphen"/>vant firſt do further enrich his Lord. And a little after, he adds: The King cannot com<g ref="char:EOLhyphen"/>municate with his Servants any of his here<g ref="char:EOLhyphen"/>ditary honour, nor give them a laſting Court-gallantry of habit, unleſſe that firſt he do re<g ref="char:EOLhyphen"/>ceive, penſions and Tributes from his Sub<g ref="char:EOLhyphen"/>jects. And now, ſince This is ſo, It may be askt, and that indeed not without an emi<g ref="char:EOLhyphen"/>nent cauſe, How it ſhould be, That the Tin<g ref="char:EOLhyphen"/>cture of <hi>Sol,</hi> according to its Eſſential Dif<g ref="char:EOLhyphen"/>ference can ſtand off from the Tincture of
+<pb n="9" facs="tcp:170553:11"/> 
+               <hi>Venus</hi> and <hi>Mars,</hi> or any other of the Tin<g ref="char:EOLhyphen"/>ctures; namely if the vulgar Gold be not a<g ref="char:EOLhyphen"/>ble to Tinge, unleſſe Itſelfe be firſt Ting'd by the Spirit of Its Subjects? Some to untie this knot have betaken Themſelves to the minera of Gold as yet Green, as alſo to the Marcaſits; and I deny not but They may doe very much, becauſe they are not deſtitute of Spirits. And thence, as they contend, the Tincture of <hi>Sol,</hi> and not from fuſed Gold, is to be prepared and had. Others look for the Tincture of <hi>Sol,</hi> not out of Gold ſimply re<g ref="char:EOLhyphen"/>ſolved, but ſuch as is firſt brought into his principles diſtinct, and after certain Depu<g ref="char:EOLhyphen"/>rations, made up againe, by a handſome natu<g ref="char:EOLhyphen"/>ral coalition. For the Artiſts (ſuch as they are) that do not add to the Mercury of Gold, the Sulphur of <hi>Sol,</hi> but <hi>Sol</hi> it ſelfe, doe not properly belong to us here, and therefore without contemning them, we anſwer thus; That the Silver and Gold that Nature has put into our hands upon her own Simple proviſion, is not ſo much required to the Tinging of <hi>Sol,</hi> as is Another more Sublime, and much better, Our Gold, the Philo<g ref="char:EOLhyphen"/>ſophers Gold, in which there is the Tingent Spirit; of which I ſhall preſently diſcourſe, when firſt I have run over all the Tinctures of <hi>Baſil.</hi>
+            </p>
+            <p>The fifth Tincture <hi>Baſil</hi> propoſes in <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi>
+               <pb n="10" facs="tcp:170553:12"/> and <hi>Saturn,</hi> and that as extending to the Coagulation onely of Common mercury to Silver namely, and to Gold, to wit, by their red and ſweet Oyle by Art prolected from their Centers, as he, in more then one place intimates to thoſe that can read. And to this place alſo belongs the Doctrine that <hi>Para<g ref="char:EOLhyphen"/>celſus</hi> delivers in his book of <hi>Vexations,</hi> con<g ref="char:EOLhyphen"/>cerning the compoſition of <hi>Saturn, Luna,</hi> and <hi>Mercury.</hi> But here, I cannot hold from telling you plainly, that <hi>Baſil</hi> ſpeakes of the vulgar <hi>Saturn,</hi> and vulgar <hi>Jupiter;</hi> both of which, while they ſtill remain in their own minera, are of a higher conſideration, virtue, and force: and to That purpoſe, in his Tri<g ref="char:EOLhyphen"/>umphal Chariot of Antimony, where he ſpeaks of the fixation of vulgar mercury, he has theſe words, <hi>page.</hi> 87. Mercury can be brought to no Coagulation, unleſſe there be an addition to it of the other metallic Spirits, and that Coagulation is moſt efficaciouſly, and moſt powerfully of all effuſed in the mother of <hi>Saturn,</hi> without which it cannot be done, unleſſe thou haſt the Philoſophers Stone itſelfe. And ſo again of <hi>Saturn,</hi> in his book of Natural, and Supernatural Things, <hi>cap.</hi> 9. <hi>pag.</hi> 121. Every man is to know, and think upon it, That no Tranſmutation of metal can be had out of <hi>Saturn,</hi> becauſe of his moſt exceſſive Cold, except onely the
+<pb n="11" facs="tcp:170553:12"/> Coagulation of the common mercury: be<g ref="char:EOLhyphen"/>cauſe the Cold Sulphur of Lead, can ſtop and tame the current, vagrant, hot ſpirit of Mercury, and take it away, if the proceſſe be rightly inſtituted. And to theſe a little after he ſubjoynes: Wherefore ſee thou do not reject <hi>Saturn,</hi> or look ſcornfully upon it to fling it behind thee: for indeed his nature and virtue is yet known but to a few; and it is from this <hi>Saturn</hi> that the True and great Stone takes the Initials of its Celeſtial, fla<g ref="char:EOLhyphen"/>grant colour; it is from this metal, and this alone; and by the Influence of this Planet is given to It a key of perſeverance through putrefaction: becauſe of Citrine no redde can be made, unleſſe, from the beginning, out of Black, a White be raiſed. Theſe Things he—.Which as they are of a higher ſearch and conſideration, ſo they ſeem to belong to a Secreter <hi>Saturn,</hi> namely, the Philoſophical, which does ariſe out of the putrefaction of <hi>Sol,</hi> and the Salt of nature, although a certain excellent Doctor of Law labours to evince in his <hi>Ruricola,</hi> That in the very minera of Lead of a certain ſort, whoſe flowers are double, there is a very great force: the ſame alſo appeares to be proved by the Tincture called the Aromatic of the Philoſophers out of the mercury of Lead; to ſay no more of particular Tinctures. Hence <hi>Paracelſus,</hi> in his
+<pb n="12" facs="tcp:170553:13"/> book of Vexations, are rather of fixations, cannot ſufficiently extol that Interior Spirit of <hi>Saturn,</hi> which is able to kill and ſlay the o<g ref="char:EOLhyphen"/>ther Spirits, or mercuries of the metals: as I my ſelf have ſometimes ſeen bars of per<g ref="char:EOLhyphen"/>fect proved Gold out of the mercury of common Lead, as they were ſhown to me five yeares agoe by a very learned, wiſe man.</p>
+            <p>In the ſixth and laſt place, <hi>Baſil</hi> makes mention of the Tincture of mercury It ſelf. But That Tincture is prepared either by the mediation of the Calx of Egge-ſhels, as <hi>Pa<g ref="char:EOLhyphen"/>racelſus</hi> has it in the fifth book of Ulcers pa<g ref="char:EOLhyphen"/>tent; or is elevated by the vitriol of <hi>Mars</hi> and <hi>Venus,</hi> reſolved, diſtilled, and coagulated, as you may ſee in the ſame Author, concern<g ref="char:EOLhyphen"/>ing the Death and Metamorphoſis of Things and more to That in <hi>Rupeciſſa,</hi> to whom I reſtore that little book of the Tincture of mercury in the Second part of <hi>Gratarolus:</hi> or elſe Its Sublimate, by help of the malagma of <hi>Jupiter,</hi> is reſolved and diſtill'd, in which the mercury is calcin'd, and coagulated with metals, the very way that <hi>Baſil</hi> himſelfe ſeems to have taken, in his book of the Two<g ref="char:EOLhyphen"/>fold Mercury of <hi>Sol,</hi> pag. 108. in that part of the Repetition of the Great Stone. For, the way of proceeding with mercury is very va<g ref="char:EOLhyphen"/>rious and multiform: and yet it is eaſily re<g ref="char:EOLhyphen"/>duced
+<pb n="13" facs="tcp:170553:13"/> into a liquor by fire with the help of the powder of beaten coale; which liquor af<g ref="char:EOLhyphen"/>terwards by a certain Artifice, is able to Extract the Soul of <hi>Sol.</hi> It is alſo preci<g ref="char:EOLhyphen"/>pitated by it ſelf, and fixt with the Tinctures of <hi>Venus, Mars,</hi> and <hi>Sol:</hi> but chiefly it is nou<g ref="char:EOLhyphen"/>riſht with its own milk, to which perchance thou mayſt Interpret that of <hi>Sybilla Enime<g ref="char:EOLhyphen"/>ria,</hi> when She ſayes: Sitting upon a plain and well-diſpoſed Seat, thou giveſt It of its own broth, that is, milk ſent down from heaven; which yet again may be applyed to the Uni<g ref="char:EOLhyphen"/>verſal, great ſtone, &amp;c. in the <hi>Sybillin</hi> fragments of <hi>Philip de Lignamine</hi> the Sicilian Knight. Of This too, take that ſpeech of <hi>Geber</hi> the Arab. when he ſayes: If of mercury alone, (mineral he means, though taken from another place) thou canſt tell how to make the Stone, thou haſt lookt for and found a moſt excellent na<g ref="char:EOLhyphen"/>ture, and pretious skill. Hence <hi>Baſil,</hi> in his Triumphal Chariot, <hi>pag.</hi> 88. For mercury (ſayes he) is a pure meer fire and no<g ref="char:EOLhyphen"/>thing elſe. And thence it is that It is burnt by no fire, and that no kind of fire can captivate it to its final Deſtructi<g ref="char:EOLhyphen"/>on. It either flyes away ſuddainly, reſol<g ref="char:EOLhyphen"/>ving it ſelfe ſpiritually into an Oyle Incom<g ref="char:EOLhyphen"/>buſtible; or remains after its fixation ſo con<g ref="char:EOLhyphen"/>ſtant, that it is not poſſible for any man to take any thing from it: inſomuch that what<g ref="char:EOLhyphen"/>ſoever
+<pb n="14" facs="tcp:170553:14"/> can be made out of Gold, the ſame may be made out of It by Art. For after the right Coagulation of It, it is in all things like to Gold: becauſe it comes from the ſame root, the ſame Stock, and that ſame Unity that Gold does. With theſe agree thoſe other pretious Sayings of his that he has ſcatter'd up and down when he ſpeaks of the Star of <hi>Sol,</hi> and the ſtarre of <hi>Mercury,</hi> which Two being joyn'd together in their radious pow<g ref="char:EOLhyphen"/>er, opens to us at a certain time the Cloſſets of the moſt ſecret Wiſdome. See his Tri<g ref="char:EOLhyphen"/>umphal Chariot, <hi>pag.</hi> 71, and 72. 91, and 92. I ſhould not need to take much pains in explaining the words of <hi>Baſil,</hi> if That Tractate which he writ upon the Aſtrum of <hi>Sol</hi> and <hi>Mercury,</hi> were not ſo enviouſly ſup<g ref="char:EOLhyphen"/>preſt by ſome. Nor are we ignorant that thoſe by ſome are applyed to the minera of <hi>Sol,</hi> the proceſſe whereof by the wet way and the mediation of <hi>Nitre</hi> and <hi>Sal-gemme</hi> is in<g ref="char:EOLhyphen"/>ſtituted ſo, that firſt Three Principles are ſe<g ref="char:EOLhyphen"/>queſtred, and then depurated by Spirit of Wine: and firſt of all aſcends the Aſtrum of Mercury White, his Sulphur and Salt remaining downwards, whereof the Salt is extracted from the Sulphur by diſtill'd rain<g ref="char:EOLhyphen"/>water, and when it is purged of all its Ter<g ref="char:EOLhyphen"/>reſtrial faeculence, it congeales into a vitriol under a triangular and quadrangular forme.
+<pb n="15" facs="tcp:170553:14"/> Out of theſe Three Depurates, is againe ex<g ref="char:EOLhyphen"/>tracted a new intire minera of <hi>Sol,</hi> and the Extract for ſome Times cohobated by affu<g ref="char:EOLhyphen"/>ſion of a New <hi>Aqua Regis,</hi> untill the mouth of the Lyon (as it is call'd) be well opend, which in Digeſtion is circulated; and after<g ref="char:EOLhyphen"/>wards, the water being drawn away, aſcends the bright Mercurial Spirit. In This the Vi<g ref="char:EOLhyphen"/>triol prepared afore is firſt Diſſolved, and Di<g ref="char:EOLhyphen"/>geſted, till it depoſes all its feculence. And this oleaginous, clear water, diſſolves the Sulphur above named and in a double pro<g ref="char:EOLhyphen"/>portion of it. To theſe Three parts are added four of the Mercurial Aſtrum, and ſo Dige<g ref="char:EOLhyphen"/>ſted into a Balny for forty dayes, till all paſs into a Green, viſcous Liquor, and afterwards in a Phyſic furnace be coagulate to a fixt med'cin. Others following the dry way ſeparate a minera from Gold, and this Gold Impregnant by its own Spirit they diſtill gently by Retort, and ſo, that of a pound they have ſcant a dram of its ſweet Spirit. An ounce of this for the purpoſe prepared, they ſhut up in a ſmall Glaſſe, decocting it care<g ref="char:EOLhyphen"/>fully ſix months by degrees of fire, till it turn to a fixt redneſſe, which paſſes through the Argent vive mineral collected without fire, and makes it fit and able to turn the bo<g ref="char:EOLhyphen"/>dy of Gold into Tincture. Now whether Theſe, or the other look better for the Aſtrum
+<pb n="16" facs="tcp:170553:15"/> of <hi>Baſil's Sol</hi> and <hi>Mercury,</hi> I leave for others to Judge, becauſe I have not yet ſeen That Tractate of <hi>Baſil de Aſtro Solis.</hi>
+            </p>
+            <p>But that I may ſpeak yet more cleerly of that Mercury that is known among the vul<g ref="char:EOLhyphen"/>gar, we muſt compare thoſe things that <hi>The<g ref="char:EOLhyphen"/>ophraſtus</hi> gives us about Congealing the Spirit of mercury into a <hi>Saphir</hi> Stone by the Oyle of Vitriol, in his book of mine<g ref="char:EOLhyphen"/>rals, with Thoſe that his Scholar <hi>Phaedro</hi> the Great, relates of the Soul of the Hermaphro<g ref="char:EOLhyphen"/>dite, and thence it will eaſily appear to them of the Chymical monarchy, from whence exiſts, and how is had, That Sapphiric Flower of the Hermaphrodite, which is the admirable myſtery of the Greater world; Of which (ſaies he) even one dram after its projection upon three thouſand drams of melted Gold and thoſe caſt upon a thouſand of Braſſe, turns all into moſt perfect pure Gold. Thus ſayes <hi>Phaedro Rodochaeus:</hi> whoſe proceſſe in this Secret is not yet known to all of Us.</p>
+            <p>To Theſe deſervedly we may add, what the moſt experienced man, and the profoundeſt ſearcher of Nature, <hi>John Iſaac</hi> the Flandrian (for from him all others after him, learnt as from another <hi>Hermes)</hi> has in his Tractate of the Oyle of vitriol; And alſo of the Oyles of Mercury, and of Antimony brought to Tincture perfectly fixt. Nor can I involve
+<pb n="17" facs="tcp:170553:15"/> This in ſilence, That of many mettals and minerals put together, the ſame Author Teaches a Tincture does ariſe; and ſuch a Tincture as is able to fall upon a Thouſand parts of Silver, to tranſmute and Tinge it to Gold. And not Inferior to This, is that Mer<g ref="char:EOLhyphen"/>curial and Solar Tincture of the moſt Illu<g ref="char:EOLhyphen"/>ſtrious Duke of <hi>Bavaria,</hi> Lord <hi>George</hi> The Rich, to whom, as our Anceſtors have left to us, immenſe riches did accrue from this Art. But beſides, That old ſaying; Make mer<g ref="char:EOLhyphen"/>cury by mercury, by water mercurial (to wit, out of Gold) preſents to us in Truth The ſame Things. And does not <hi>Palingenius</hi> in his Capricorn-book, the tenth, allude neer to the ſame ſenſe? when he ſayes,</p>
+            <l>
+               <hi>Hunc Juvenem Arcadium Infidum, ni<g ref="char:EOLhyphen"/>miumque fugacem</hi>
+            </l>
+            <l>
+               <hi>Prendite, &amp; immerſum ſtygiis occidite lymphis:</hi> &amp;c.</l>
+            <l>This young Arcadian faithleſſe, vagrant knave</l>
+            <l>Snap up, and drown him in the ſtygian wave. and That that follows.</l>
+            <p>But of This enough already. For I do not certainly know, whether that of the Helve<g ref="char:EOLhyphen"/>tian
+<pb n="18" facs="tcp:170553:16"/> Doctor, in his book of the Treaſure of Treaſures, writing of minerals, may be re<g ref="char:EOLhyphen"/>ferred hither, or not: Nature (ſayes he) begets a mineral in the bowels of the Earth, of which there are Two kinds, which are found in many places and Lands of Europe. But the beſt, in the figure of the Greater world, is in the riſing of the Aſtrum of the Sphear of the Sun. The Other, in a meridional Aſtrum, which is in its firſt flower, produced by the Aſtre of the <hi>Viſcus terrae,</hi> the Glew of the Earth; and in its firſt Coagulation is found redd, in which all the mineral flow<g ref="char:EOLhyphen"/>ers and colours lye concluded. Which words literally underſtood ſeem to be ſpoken of the minera of Mercury and Gold, becauſe <hi>Theophraſtus</hi> (as alſo his Schollar <hi>Phaedro Magnus)</hi> attributes all the Colours of mine<g ref="char:EOLhyphen"/>rals, in his book of the Generation and Me<g ref="char:EOLhyphen"/>tamorphoſis of Things, to Argent vive as the mother of metals. Although there are ſome, that pertinaciouſly fit This to the Redd Tranſlucid minera of Silver, call'd <hi>Rotgul<g ref="char:EOLhyphen"/>digertz</hi> by the Germans. But I, inſtead of Gold, ſhould think it rather to agree to A<g ref="char:EOLhyphen"/>nother certain minera, which is feracious of Gold, and fertil to It, and yet not Gold It ſelf. To this is not unlike, what <hi>Baſil</hi> in his books of Supernatural and Naturall Things, <hi>Chap.</hi> 3. pag. 45. ſayes of the Spirit
+<pb n="19" facs="tcp:170553:16"/> of mercury in theſe words: Here the queſti<g ref="char:EOLhyphen"/>on might very well be put to me, How this Spirit of Mercury, is to be got, and had by Us? Upon This Great queſtion (he addes) One might very well with a ſtrong deſire expect the Anſwer; which yet I will not con<g ref="char:EOLhyphen"/>ceal from any one, but lay it open faithfully, ſo far as by the wil of God, it is lawfull to do it, in manner following: Take (ſayes he) In the name of God, The Redd minera of Mer<g ref="char:EOLhyphen"/>cury, that looks like Cinnabar (factitious.) Take, beſides, The beſt Minera of Gold that thou canſt get: bruiſe and powder Them both together in an Equal pondus, before They have come at any fire, <hi>&amp;c—.</hi>in the ſame place.</p>
+            <p>It is very well known, That of a certain minera fertil to <hi>Sol,</hi> and the liquor of <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> by a monthly Appoſition of It, there grew up to a German Lady, a perpetual har<g ref="char:EOLhyphen"/>veſt, or Crop of Gold. The Gold riſing firſt in its Colour Green as Graſſe: afterwards by little and little the Spires paſſing into Gold, ready to be reapt by Cizars. There is, beſides, Another particular Tincture that terminates in the Deep-red Cryſtals of <hi>Sol;</hi> when it is ſublimed, and has before grown out into ſprayes, and is almoſt conſentaneous to the Other.</p>
+            <p>But we are to take notice, That <hi>Baſil</hi> does
+<pb n="20" facs="tcp:170553:17"/> not ſpeak of the Spirit of Mercury and Sul<g ref="char:EOLhyphen"/>phur after One way, but diverſly; ſometimes of the Stone, ſometimes of the Tincture of <hi>Venus</hi> and <hi>Mars;</hi> ſometimes again of the moſt Univerſal: whence not much after, Chap. 4<hi rend="sup">th</hi> of the Spirit of vitriol out of <hi>Venus</hi> and <hi>Mars:</hi> The Genuine and True Sulphur (ſays he) is Incombuſtible. For It is a True and a meer Spirit, out of which Incombuſtible Oyle is prepared and had: and It is That very Sulphur, out of which the Sulphur of Gold from the ſame root proceeds and is made. By which words it is not hard to be conjectu<g ref="char:EOLhyphen"/>red, what he would have us ſecretly to Un<g ref="char:EOLhyphen"/>derſtand by his beſt Minera of Gold, as he ſpeaks of It in other and other places, accor<g ref="char:EOLhyphen"/>ding to the variety of the Subject, of which he treats: Therefore he adds; For this Sul<g ref="char:EOLhyphen"/>phur is rightly to be called and baptized, The Sulphur of All the Philoſophers (as <hi>Paracel<g ref="char:EOLhyphen"/>ſus</hi> points It out too in his book of minerals, Chap. 8<hi rend="sup">th</hi>. of vitriol; and <hi>Baſil</hi> likewiſe in the Chapter of vitriol, <hi>pag.</hi> 133.) becauſe in It is all wiſdome found even to the Spirit of mercury, which antecedes it—. But what That Spirit of Mercury is, of which he writes there, whether That expreſt in the Tincture in the Manuſcript, to wit, the white Spirit of the vitriol of <hi>Venus</hi> from <hi>Mars,</hi> or of the Univerſal Moſt Univerſal, I leave it
+<pb n="21" facs="tcp:170553:17"/> to the judgment of the learned. For he ſayes, That the Aſtrum both of <hi>Sol</hi> and <hi>Mercury,</hi> and the Mercury and Sulphur of the Philo<g ref="char:EOLhyphen"/>ſophers, proceed from One root, at firſt in<g ref="char:EOLhyphen"/>deed a white Spirit, and That he plainly calls the Philoſophers Mercury: for afterwards there follows (ſayes he) a red Spirit, that is, the Sulphur of the Philoſophers and their oyle Incombuſtible, from both the Tinctures of <hi>Venus</hi> and <hi>Mars</hi> meeting together in one womb. To this purpoſe in his Chapter of Vitriol ſee more <hi>pag.</hi> 132. and how pro<g ref="char:EOLhyphen"/>foundly he playes the Philoſopher the A<g ref="char:EOLhyphen"/>nalogically <hi>de Spiritu Albo ad Album, &amp; ad Rubeum de Rubeo—</hi>Of the white Spirit to the white, and to the Red of the Red.</p>
+            <p>It appeares therefore, That the red minera of <hi>Paracelſus</hi> his Cinnabar, and the red mine<g ref="char:EOLhyphen"/>ra of <hi>Baſilius</hi> his Mercury, agree very neer; and that the beſt minera of Gold, with both, may be underſtood not only of the common Mines which nature gives us, but of others, to wit of Antimony, the minera of <hi>Mars,</hi> and chiefly of the vitriol of <hi>Venus</hi> out of <hi>Mars.</hi> But of theſe, as the Greeks ſpeake, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by the way, to help us to underſtand <hi>Baſilius</hi> ſpeaking ſo variouſly of the Spirit of Mercury; which is the manner of thoſe Chymiſts that have tryed many Things, and draw on one ſhoo upon many.
+<pb n="22" facs="tcp:170553:18"/> For there are Many wayes that aime particu<g ref="char:EOLhyphen"/>larly at One End, not only by One, but by many, and indeed diverſe, Things: Againſt which Doctrin many have their Opinati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Therefore ſince our <hi>Baſil</hi> reckons up to Us diſtinctly theſe Six Explicit Tinctures, which we have diſcourſ'd ſo freely afore: and yet in the 244 page of his Triumphal Chariot, profeſſes alſo openly, That All the Six Stones of metallic Tinctures ariſe from One Seed, and are All by One Initial mo<g ref="char:EOLhyphen"/>ther in their firſt Generation; So proſemina<g ref="char:EOLhyphen"/>ted and bred, that from The ſame mother the True Univerſal has its lineal profluence; it is cleer as noon-day, that beſides and a<g ref="char:EOLhyphen"/>bove the Solific Eſſence both of the vulgar, and Our Philoſophical Gold, there is yet Another ſort of Gold, and That more Secret and hid, from which the Univerſal Moſt Uni<g ref="char:EOLhyphen"/>verſal iſſues forth, as the Seaventh and moſt perfect of All, riſing from its own proper root, that is, its own Earth and Water, and in That much exceeds the very Philoſophers ſtone Itſelfe; becauſe out of It alone, both That Stone, and the Other particular Tin<g ref="char:EOLhyphen"/>gents, are form'd and flow primordially: and more then that, becauſe from It all the other Things of all the world, not onely in the Mineral, but alſo in the Vegetal, and A<g ref="char:EOLhyphen"/>nimal
+<pb n="23" facs="tcp:170553:18"/> Kingdome derive their life, hold it ſtill, and by the Crearor are ſo ordain'd to their Increment and multiplication. But now what manner of thing this is, and in what thing placed, although it may in ſome ſort be conjectured by what was ſaid afore, (The Green Line caſting it ſelf every where, and encompaſſing all); yet we ſhall ſpeak more of it below in its place.</p>
+            <p>All the queſtion now, after we have reckon'd up all the Tinctures, with their Multiplicity and diverſity in the Minerall Kingdome, is to be transferred by us, <hi>Ad Aurum Philoſophorum Noſtrum,</hi> to Our Philoſophers Gold. What it ſhould be, viz. out of which, the Tincture of Sol is chiefly to be prepared, beſides the Univerſal Moſt Univerſal, and the other Tinctures named above. We ſay therefore; That this Gold of the Philoſophers, (for of the others, as of the Univerſal Moſt Univerſal, we ſpeak not now), is Gold, that is produced by the Philoſophers out of the Metalls Inferior, and of leſſer value; and not by ſeparation alone, but by the benefit of nature working by Art in an Actuall tranſmutation. There<g ref="char:EOLhyphen"/>fore it is not vulgar Gold, which by nature in her degree is onely ſimply perfect, and therefore now lyes under rather an Expira<g ref="char:EOLhyphen"/>tion, or declination of its Seed; than that it
+<pb n="24" facs="tcp:170553:19"/> ſhould be vegetous and fruitfull to a proge<g ref="char:EOLhyphen"/>neration of other Gold. Concerning this thing the moſt Expecienced Mineralliſt and Metall-man <hi>Andreas Solea,</hi> publiſhed by the famous <hi>Montanus,</hi> is to be heard, who in his Book of Minerals Metallic, Chap. the 9th. Of expiring Metall, Septurie the ſe<g ref="char:EOLhyphen"/>cond, writes thus: When Nature with the body of Metall is come as high as Gold, then it deſcends again, or moves down ward for want of Aliment by its hunger. Again, in the end of the Seventh Chapter, Septurie the firſt, Of the Aſcent and Deſcent of Metalls; after he has recounted, how finely nature aſcending Calcines the whole body of <hi>Luna,</hi> which Calx is nothing elſe but the body of <hi>Sol,</hi> he adds thus: As for Deſcention, thou mayſt eaſily perceive and underſtand it by Aſcenſion. For this is the difference, that in the Aſcent it firſt acquires Tincture, be<g ref="char:EOLhyphen"/>fore a body: but in the Deſcent, ſooner looſes that Tincture. And therefore Me<g ref="char:EOLhyphen"/>talls that are Deſcendent are much more imperfect then thoſe that are Aſcendent. Thus he. Therefore ſhowing where the Seed and Tincture is fruitfull or not fruitfull in the Metalls, The Aſcenſion (ſayes he) and Deſcenſion of Metalls, could not be made, but that they all agree in their ſeed and are of a Conſanguinity. <hi>Item;</hi> In their Aſcent
+<pb n="25" facs="tcp:170553:19"/> Silver and Gold have the ſame ſeed, which in the Aſcent tranſmutes Silver to Gold: but in the Deſcent, transferrs it into Cop<g ref="char:EOLhyphen"/>per. Then concluding, he ſayes moſt openly: The Seed muſt paſſe out of its owne body in<g ref="char:EOLhyphen"/>to another, or elſe it cannot be fruitfull, or fertill. Thus farre <hi>Solea.</hi> And whoſoever will not give Credit to his various experi<g ref="char:EOLhyphen"/>ence, will believe no body at all. The cauſe therefore appears, why Tinctures are not made out of Common Gold, unleſſe that (as <hi>Baſil</hi> ſayes) be firſt exalted by the Spirit of Its Subjects. For we muſt look for a more noble, and more perfect Gold, that is in its Aſcent, in which the Tingent, Green, Vege<g ref="char:EOLhyphen"/>tant ſpirit and fruitfull Seed is; which by <hi>Solea's</hi> intimation and pointing out, is Gold produced from Inferior Metalls. Why elſe (ſayes <hi>Count Treviſan)</hi> ſhould we take nine Months time to ſerve our turn (to ſpend it, he means, upon the Exaltation of Common Gold by the Tincture of <hi>Venus,</hi> as <hi>Baſil</hi> teaches)? For we might take that body, as na<g ref="char:EOLhyphen"/>ture has made it, and laid it ready for our uſe. Here you ſee that Gold ſimply given us by nature, cannot of it ſelf produce Tinctures: but another ſort of Gold. Therefore he adds: Our Gold is not the Gold of the Vulgar, as all Philoſophers ſay, becauſe the common Gold is dead: but ours is impreg<g ref="char:EOLhyphen"/>nate
+<pb n="26" facs="tcp:170553:20"/> with Spirit and is a hueing Gold. Hence John <hi>Clopinel de Mehun</hi> in his anſwer to the Lamentation of Nature; Gold (ſayes he) is known to be the Treaſure of all the Mines: and yet it has neither matter, nor form of ſo great power, as to exceed its owne perfection. For it has no greater pow<g ref="char:EOLhyphen"/>er then to perfect it ſelf, let the Artiſt ſtrive, and do what he can. To deſtroy it, and to re<g ref="char:EOLhyphen"/>duce It, would be a fooliſh work, ſince out of it no more virtue, nor power can be had, than what it has from its proper nature to compleat it ſelfe.</p>
+            <p>No Reduction can be made of thoſe things, that Nature perfects into a ſpecies or Indivi<g ref="char:EOLhyphen"/>duall, unleſſe firſt they be corrupted. And after Corruption no Generation is made like to the ſpecies, unleſſe perchance there be a Regreſſe to the <hi>Genus.</hi> Wherefore the De<g ref="char:EOLhyphen"/>ſtruction of Gold makes nothing to the Con<g ref="char:EOLhyphen"/>ſtruction, or making of it, becauſe by its de<g ref="char:EOLhyphen"/>ſtruction nothing can be made. For it be<g ref="char:EOLhyphen"/>ing once dead, its Subſtance dyes too, and So that out of It no other Argent vive, or Metal, can be had any more, &amp;c.</p>
+            <p>That therefore we may expreſſely and ſo<g ref="char:EOLhyphen"/>lidly confirm our Sentence and Concluſion concerning the Philoſophers Gold from the lower Metalls, we will give you evident Teſtimonies from many eminent Philoſo<g ref="char:EOLhyphen"/>phers.
+<pb n="27" facs="tcp:170553:20"/> And firſt, <hi>Baſilius</hi> in his manuſcript, Declaration of his manual practice, writing thus of the Tincture of <hi>Sol:</hi> Thou oughteſt to know (ſayes he) that Our Stone is made of Its own proper Eſſence, and that it tranſ<g ref="char:EOLhyphen"/>mutes Other metals into Gold. Which Gold (he adds) muſt again be Deſtroyed, and Turn'd into a better Stone. Here very e<g ref="char:EOLhyphen"/>vidently (as I think) he ſhows, That This Gold is firſt to be made, before it can again be deſtroyed, or Turn'd into a better Stone: whence likewiſe in his German poetry, neer the beginning, he delivers the ſame Senſe:</p>
+            <l>
+               <hi>O Sol, Regis in hoc qui munere fungeris Orbe:</hi>
+            </l>
+            <l>
+               <hi>Luna Genus ſervat multiplicatque tuum.</hi>
+            </l>
+            <l>O Sol, Thou doeſt the Office of a King in this World:</l>
+            <l>
+               <hi>And,</hi> It is Luna that preſerves and multiplyes thy Kind.</l>
+            <p>In which he ſhows that <hi>Luna</hi> is required to the propagation of <hi>Sol,</hi> as in the follow<g ref="char:EOLhyphen"/>ing lines, when expreſly he adds;</p>
+            <l>
+               <hi>Summè, Luna, precor, ne deſeruiſſe velis me,</hi>
+            </l>
+            <l>
+               <hi>Quum Venus in bivio jam ſit, ut illa decus.</hi>
+            </l>
+            <pb n="28" facs="tcp:170553:21"/>
+            <l>
+               <hi>Induviasque tuas ipſa induat: ut libet Ambo</hi>
+            </l>
+            <l>
+               <hi>Ex illa compti, divitiiſque Simul</hi>
+            </l>
+            <l>
+               <hi>Ditati ſimus! quod Te meminiſſe ſub<g ref="char:EOLhyphen"/>inde</hi>
+            </l>
+            <l>
+               <hi>Addecet. Hoc etenim nunc Tibi linquo. Vale.</hi>
+            </l>
+            <l>I earneſtly pray Thee, Good Luna, for<g ref="char:EOLhyphen"/>ſake me</l>
+            <l>not, when Venus now ſtands doubting between</l>
+            <l>Two-wayes; that She may put upon her ſelf</l>
+            <l>Thy Clothes and beauty: and that Both of Us,</l>
+            <l>being ſo made Fine, may alſo be made Rich</l>
+            <l>By her! This thou ſhouldeſt Think upon;</l>
+            <l>This I leave to Thee! And farewell.</l>
+            <p>So in his following Verſes upon <hi>Venus,</hi> he witneſſes further, ſaying thus: <hi>Ejus filium (nempe Antimonium,) &amp;c—.</hi> That her Son (to wit, Antimony) does warme and heat the body of <hi>Luna,</hi> that ſhe may be made pregnant, and leave behind her a progenie of mighty virtue and vaſt Encreaſe: meaning our Gold Philoſophical. But from <hi>Baſilius</hi>
+               <pb n="29" facs="tcp:170553:21"/> more below: Now let us come to that moſt Excellent Author of Twelve Tractates up<g ref="char:EOLhyphen"/>on the Stone, whoſe Anagram is, <hi>Qui Divi Leſch Genus Amo,</hi> that is, <hi>Michael Sendivo<g ref="char:EOLhyphen"/>gius,</hi> That Polander, whom <hi>Oſwald Crollius</hi> in the preface of his <hi>Baſilica,</hi> calls <hi>Heliocantha<g ref="char:EOLhyphen"/>rus Borealis,</hi> The Northern Beetle, in whoſe hands he ſaw with great admiration and a<g ref="char:EOLhyphen"/>mazement, the wonderfull Virtue and Ope<g ref="char:EOLhyphen"/>ration of that Tincture commonly call'd the Philoſophers Stone. Thus therefore <hi>Sendi<g ref="char:EOLhyphen"/>vow</hi> in the proaem to his Tractates. Although there are to be found ſome Idle fellows which either out of Envy or malice, or fear of the detection of their Impoſtures, cry it abroad, That the Soul of Gold may be ex<g ref="char:EOLhyphen"/>tracted from Gold, and ſo return'd to Ano<g ref="char:EOLhyphen"/>ther body with vain and pompous Oſten<g ref="char:EOLhyphen"/>tation, not without the loſſe of Time, La<g ref="char:EOLhyphen"/>bour, and Coſt: Let the Sons of <hi>Hermes</hi> for certain know, that their Extraction of Souls (as they call it) whether from Gold or Silver, by any vulgar Alchymiſtical way, is nothing but a meer perſuaſion: which yet is not be<g ref="char:EOLhyphen"/>leeved by many, till at length by Experience, the only Sole miſtriſſe of Truth, its verified to Them to their Loſſe. On the otherſide, (he goes on) he that in the Philoſophers way can Tinge the leaſt piece of metal, with gain, or without gain, really to the Colour of <hi>Sol,</hi>
+               <pb n="30" facs="tcp:170553:22"/> or <hi>Luna,</hi> permanent in all the probates re<g ref="char:EOLhyphen"/>quiſit: he, I dare very well affirm, has Nature's Doors ſet open to him, to ſearch out further and higher Secrets, and by the bleſſing of God, to be an Adeptus, and attain them. Theſe words doe not ſo much referre to the artifice of Extracting a Tingent Anima, by which a way ſhould be laid open to higher Secrets: as to the very, right Philoſophical Gold produced out of the Inferior metals; by the Uſe of which Gold (as I ſhall ſhow out of the Author) a way is made to us of higher Things. But what he diſcourſes of the Anima of Gold vulgarly Extracted, we muſt know that Anima cannot tranſ<g ref="char:EOLhyphen"/>mute, although It may induce Colour, as <hi>Paracelſus</hi> does witneſſe abundantly to us in his book of Minerals, Chap. the ſeventh, to theſe words; This is altogether True, If the Sulphur of Gold be projected upon Silver, it colours it indeed, but does not fix it. And <hi>Baſil</hi> glances at the ſame in his Repe<g ref="char:EOLhyphen"/>tition of the Great Stone, <hi>pag.</hi> 113. Right<g ref="char:EOLhyphen"/>ly therefore <hi>Sendivogius</hi> in his ninth Tractate of the Commixture of Metals. The Chymiſts (ſayes he) know very well how to tranſmute Iron to Copper, or <hi>Venus,</hi> without <hi>Sol:</hi> But if they could tell (he further addes) how to adminiſter the Nature of <hi>Sol</hi> to theſe muta<g ref="char:EOLhyphen"/>tions, they ſhould find the moſt pretious
+<pb n="31" facs="tcp:170553:22"/> Treaſure of all, a Thing more pretious then any is. And what Other Thing I beſeech you is This, than, not the Common Gold, but Our Gold Philoſophical; of which the Tin<g ref="char:EOLhyphen"/>cture of <hi>Sol,</hi> the moſt pretious Treaſure may afterwards be prepared? wherefore (ſayes he) we are not to be Ignorant, what metals are to be put together and conjoyn'd, and what nature correſponds to what. Then conclu<g ref="char:EOLhyphen"/>ding; There is (ſayes he) One metal (metal he ſayes) that has the power of Conſuming others (videlicer, by Corroding): And why? For it is almoſt (ſayes he) as Their water, and almoſt Their mother. Only One Thing, videlicet the Radical humidity of <hi>Sol</hi> and <hi>Luna,</hi> holds out and reſiſts, and is meliorated by It. Here he might ſeem by the letter to ſpeak altogether of the vulgar <hi>Saturn.</hi> But Gold and Silver are not properly made In<g ref="char:EOLhyphen"/>trinſically better by vulgar <hi>Saturn,</hi> although they be forinſically purged. Therefore thou muſt take it of another <hi>Saturn,</hi> with which if Gold cloſe eleven times, it is brought down to Death, and afterwards put into its own matrix (namely Mercury) it conceives and generates the moſt excellent fruits. But ſince no other <hi>Saturn</hi> but the vulgar, or That which is made by Tranſmutation out of the Regulus of Antimony <hi>per Coementum,</hi> as alſo out of the vulgar Mercury reſolved in an
+<pb n="32" facs="tcp:170553:23"/> Aqua fort, is actually metal; the words be<g ref="char:EOLhyphen"/>fore, may not unfitly be referred, to the Tincture of the Vitriol of <hi>Venus</hi> and <hi>Mars</hi> (for this is almoſt as their water, and almoſt their mother, by which the Radical moyſture of <hi>Sol</hi> is indeed meliorated:) for our reſerate prepared Gold, is ſaturated by It, and promo<g ref="char:EOLhyphen"/>ted to fixt Tincture, as <hi>Baſil</hi> himſelfe wit<g ref="char:EOLhyphen"/>neſſes: becauſe Gold cannot Tinge of Itſelfe, unleſſe Itſelfe be firſt Tinged. Therefore <hi>Sendivogius</hi> adds: <hi>Sed ut detegam,</hi> &amp;c. But that I may diſcover it (ſays he) It is call'd <hi>Chalybs,</hi> or our Steel; And Truly <hi>Chalybs,</hi> yet not vul<g ref="char:EOLhyphen"/>gar, but Such as is Tranſmuted into <hi>Venus,</hi> to which the Nature of <hi>Sol</hi> is to be intimately mingled, videlicet by the Vitriol of Both, not common Vitriol. And to This ſenſe That rwordr <hi>Apoteleſma</hi> belongs: <hi>Viſitans In eriora Terrae Rectificando Invenies Occul<g ref="char:EOLhyphen"/>tum Lapidem Veram Medicinam;</hi> By its Initi<g ref="char:EOLhyphen"/>als making the word <hi>VITRIOLUM.</hi> But That <hi>Send vogius</hi> adds: <hi>Si undecies coit Au<g ref="char:EOLhyphen"/>ram cum eo,</hi> If Gold cloſe eleven times with It (for it does not come over the helme un<g ref="char:EOLhyphen"/>leſſe it be often joyn'd with Gold) The Gold emits its Seed and is debilitated almoſt to death, as we may ſee in the manuſcript practice of <hi>Baſil's</hi> Tincture; it is to be thus taken, that by putrefaction after the diſtil<g ref="char:EOLhyphen"/>lation of Both, it is at length mortified, that
+<pb n="33" facs="tcp:170553:23"/> thence it may be raiſed again into a New Life: Then (ſayes he) The <hi>Chalybs</hi> conceives and breeds a Son more noble than the father (vulgar Gold), that is, It generates for us a <hi>Sol,</hi> or magical Gold, from whence after<g ref="char:EOLhyphen"/>wards the Tincture of <hi>Sol,</hi> from <hi>Sol</hi> Philoſo<g ref="char:EOLhyphen"/>phical exiſts. Hence he adds: <hi>poſtea cum Semen jam Nati:</hi> Afterwards when the Seed of that which is now born (that is, the Sulphur of Gold Philoſophical) is put into its own ma<g ref="char:EOLhyphen"/>trix (that is, it be admixt to his own Salt and Mercury) it purges the matrix, and makes it a thouſand times fitter to bring forth the moſt excellent fruit, that is, it brings forth for us a Tincture from Gold Philoſophical, which after Its fermentation tinges thou<g ref="char:EOLhyphen"/>ſands, as <hi>Baſil</hi> affirms. But <hi>Sendivogius</hi> tells us more, and that we ought intenſely to mind; There is beſides Another Chalybs, which is like to this, made ready to our hand by Nature, ſuch as is able by its admi<g ref="char:EOLhyphen"/>rable virtue, out of the rayes of <hi>Sol</hi> to Eli<g ref="char:EOLhyphen"/>cite that, that ſomany men have ſought, and is the Beginning of our Work: underſtand<g ref="char:EOLhyphen"/>ing not ſo much the minera of <hi>Mars,</hi> or <hi>Cha<g ref="char:EOLhyphen"/>lybs</hi> native, as a certain kind of mineral Op<g ref="char:EOLhyphen"/>poſed to <hi>Mars,</hi> of which in his laſt Tractate he ſayes: Our Salt is mercury: and then adds Our <hi>Sol</hi> and <hi>Luna</hi> (whence this Stone of the Philoſophers exiſts) is Obducted, or covered
+<pb n="34" facs="tcp:170553:24"/> over with the Sphear of <hi>Saturn:</hi> which min<g ref="char:EOLhyphen"/>eral indeed receives into Itſelf the beams of <hi>Sol</hi> (that is, its quinteſſence), and by a very wonderfull power promotes it to a tingent Stone. <hi>Nihil nis magis Opertum, nihil magis etiam Apertum: ſi modó habeamas apertos ocu<g ref="char:EOLhyphen"/>los ad ixtelligendum rad ces minerarum &amp; Simplices &amp; Compoſitas.</hi>
+            </p>
+            <p>Nothing more hid, nothing more open then theſe things; If we but have our Eyes open to ſee and underſtand the roots of mines both Simple and Compound. To this ſenſe the ſame Author, tract, the 10th. Gold (ſayes he) can give its fruit and Seed; in which It multiplyes itſelf by the Care and Wit of an Artiſt, that knows how to promote Nature. But, both in the practice of the eleventh Tractare, and in the Theorie of the third, he ſtrictly caution's that we take not vulgar Gold by Itſelfe ſimply to make the tincture of the Sun: And in his practice thus he does it. But be thou admoniſht by me in this, that thou take not Gold and Silver vulgar: for thoſe are dead. Take ours (ſayes he) for thoſe are living. Then in his Theorie: But take along this Caution with thee, that thou ſeek not that point of na<g ref="char:EOLhyphen"/>ture, in vulgar metals, in which It is not: for thoſe metals, and eſpecially vulgar Gold, are Dead; but Ours are Living, and have Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="35" facs="tcp:170553:24"/> and they by all means are to be taken. Thus <hi>Senaivogius:</hi> In which (I confeſſe) he does not onely diſcourſe of this our Philo<g ref="char:EOLhyphen"/>ſophical Gold, but alſo of the Great Univer<g ref="char:EOLhyphen"/>ſal. However it is, he does altogether Ex<g ref="char:EOLhyphen"/>clude the vulgar Gold Simple, unleſſe it be firſt driven from the minera's, and Exalted by Art.</p>
+            <p>But let us conſult <hi>Theophraſtus Paracel<g ref="char:EOLhyphen"/>ſus,</hi> and ſee what he ſayes, or rather demon<g ref="char:EOLhyphen"/>ſtrates in his Praxis, of this our Gold Phi<g ref="char:EOLhyphen"/>loſophical. He teaches in his book of mi<g ref="char:EOLhyphen"/>nerals, Chapter the ſeventh, to make the Epa<g ref="char:EOLhyphen"/>tica of mineral Sulphur, from whence after<g ref="char:EOLhyphen"/>wards the red Oyle is diſtilled, where to theſe words. Here we muſt obſerve (ſayes he) that any Silver that is put into this Oyle, and there remaines its due time, remaines black, and caſts its Solar Calx to the bot<g ref="char:EOLhyphen"/>tome. But before its due time, it leaves a Calx not fixt, but ſomewhat Volatil and Immature, (note the word Immature for that that follows) but if it attain its terme (he adds) and come to its juſt petiod, then It Fffects All Things that are to be done: It is not good to ſay more of this thing. Out of this one place alone, it more then e<g ref="char:EOLhyphen"/>vidently appears, what this Gold ſpringing from Silver can doe, of which (he ſayes) it would not conduce to ſpeak more: and yet
+<pb n="36" facs="tcp:170553:25"/> he confeſſes it does doe all things that are to be done, videlicet, whatever the Artiſt deſires, or wants. This is a moſt Conſpicu<g ref="char:EOLhyphen"/>ous place, and by no means to be infirmed, or eluded, that it may not be the palmary of Confirmation to our Sentence, concerning the living magical Gold, and ſo much (I ſay) the more certain One, by how much <hi>Para<g ref="char:EOLhyphen"/>celſus</hi> is Greater then All. But this Oyle of Sulphur is nothing elſe, but the firſt Ens of Vitriol, which by its Acidity is ſufficiently argued; as alſo from this, that if you put to This oyle, of the common Sulphur, and twice as much of fountain-water, and after<g ref="char:EOLhyphen"/>wards boyle in it Lamels of Steel till a Third remain, preſently as ſoon as it is cold, a moſt Green Vitriol is generated there. And This a certain late Writer, taking it from a Diſquiſition of mine, and miſtaking me, in<g ref="char:EOLhyphen"/>ſerted to his Tyrociny, and brag'd, It was the Sal of <hi>Mars.</hi> But let us return to <hi>Paracel<g ref="char:EOLhyphen"/>ſus.</hi> He writes in his Manual, where he treats of the preparation of the Tincture of <hi>Sol,</hi> as appeares by the End of that diſcourſe (for there he ſpeaks in plain Termes of Potable Gold, and the liquor of <hi>Sol)</hi> in theſe words to our purpoſe, <hi>Sume Electri Mineralis Im<g ref="char:EOLhyphen"/>maturi, &amp;c.</hi> Take of the Mineral <hi>Elect um Immature</hi> (that is, ſuch as is between mature and immature). And what is this Electrum
+<pb n="37" facs="tcp:170553:25"/> I pray you? Electrum, with <hi>Paracelſus,</hi> is no other Thing but a metal which is made by Art out of another metal; So that the white <hi>Venus</hi> out the Red, is called an Electrum by him, although to Colour only, and not to Things, they ſtand Diſtant from one Ano<g ref="char:EOLhyphen"/>ther. Hence in the book of Minerals thus defining; Electrum (ſayes he) is a metal from another metal (namely by the benefit of Na<g ref="char:EOLhyphen"/>ture, &amp; help of Art). Whence alſo, in another place, The Crama of all the metals joyn'd together in Mercury, as a certain thing eli<g ref="char:EOLhyphen"/>cit from Seaven, he calls Electrum. It is therefore conſequent that he here, by the name Electrum, does not ſpeak of vulgar metals by nature's hand ſimply given, or as they are conſtituted in their mines, or fuſed above; but of thoſe that out of other metals are produced by Art, as when <hi>Venus</hi> is made of <hi>Mars,</hi> which indeed is much better, and of greater power (as Experience teaches) than Common <hi>Venus.</hi> And ſo likewiſe, the Gold produced out of <hi>Luna</hi> by the oyle of the Epatica of Sulphur (as he taught above) is much better then the vulgar, becauſe it effects even All things (as <hi>Paracelſus</hi> ſayes) that are to be Effected: and may indeed be ſo Exalted that it would drive any man to admiration. But why does he cal it Mineral, and Immature? Becauſe it is from the Mi<g ref="char:EOLhyphen"/>neral,
+<pb n="38" facs="tcp:170553:26"/> and That Immature. For it is made by minerals, as by the Oyle of Sulphur from Luna which is imperfect, but yet in a very neer way to be brought up to maturity. Therefore before it compleats its terme, it is immature, having ſtill Extraneous Super<g ref="char:EOLhyphen"/>fluities: wherefore he teaches us to waſh and purge the Electrum from all Superfluity the Chymical way by Stybium, till it attain the Exquiſit Degrees of Gold. And what doe you ſay, that Gold Itſelf (although produced from Luna) in compariſon of the Stone and Solar Tincture, is a thing yet Imperfect, and ſo in a manner Immature? as <hi>Paracelſus</hi> himſelfe in the ſame place a little after de<g ref="char:EOLhyphen"/>clares: Nature (ſayes he) has left it imper<g ref="char:EOLhyphen"/>fect in its place, becauſe ſhe did not intend to make the Stone, but the Matter of It, which indeed without preparation is but a dimidiate, lame Thing. This place is accu<g ref="char:EOLhyphen"/>rately to be perpended, that we may under<g ref="char:EOLhyphen"/>ſtand, what he here calls the work of nature reſpectively (as is the natural Tranſmutation of Our Argent into Gold by the Oyle of the Epatica of Sulphur) and what the work of Art, videlicet, in preparing the Tincture Philoſophical, becauſe where Nature Ends in making our Gold, there Art begins in the preparation of the Tincture of magical Gold: although on both hands the Artiſt comes as
+<pb n="39" facs="tcp:170553:26"/> miniſter of Nature, beſtowing indeed more labour in the work of Art, leſſe in the work of ready Nature. To <hi>Theophraſtus</hi> in aſtipu<g ref="char:EOLhyphen"/>lation <hi>Bartholomeus Korndorferus</hi> is ſuccen<g ref="char:EOLhyphen"/>turiat, by whom the Groſſe, and not yet Cla<g ref="char:EOLhyphen"/>rified Gold, is commonly called <hi>Corpus,</hi> and <hi>Corpus Iners,</hi> a Body, and an Inert Body. And now to produce him here as a fit wit<g ref="char:EOLhyphen"/>neſſe in ſo great a cauſe, in his Tractate of Luna and its Defects, not unlike to that of <hi>Truh<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ius,</hi> thus he writes: There is a ſhort way by which Silver may be brought to Such a poynt, that it may be made the beſt Gold, and beſt of all to be eſteemed, becauſe to Our Tinctures no better can be uſed. What more expreſſe then theſe words, what I pray you more evident, and with <hi>Theophraſtus</hi> more conſentient? But he adds ſomewhat more, by which he wonderfully illuſtrates <hi>Theophraſtus</hi> about the Solution of the Im<g ref="char:EOLhyphen"/>mature Electrum. Whoſoever (ſayes he) can maturate Immature Gold (ſo he calls Our Argent) and turne It into a right liquor, ſo that it is ſeperate from its Earth, has got the fountain of Sanity. Hence he extols that Saying of <hi>Paracelſus</hi> when in his book of Vexations he affirmes: That true Alchymie onely by one Art teaches us to make Silver and Gold of the five Imperfect metals: And to uſe no other Receipts but onely theſe,
+<pb n="40" facs="tcp:170553:27"/> 
+               <hi>Tantum de metallis, ex metallis, per metalla, &amp; cum metallis, fieri perfecta metalla.</hi> And then explicating that Oracle, and ſhowing how it is to be underſtood: <hi>Magna Arcana in me<g ref="char:EOLhyphen"/>tallis abſcondita, &amp;c.</hi> Many Arcana's are hid (ſayes he) in metals, and are to be drawn out by an eaſier way then any one would beleeve, or think to do any good by it. I now ſay no<g ref="char:EOLhyphen"/>thing (he further adds) how wonders above wonders, are Effected by it, if, in the Philoſo<g ref="char:EOLhyphen"/>phical way, they be awakened and raiſed up into their Primitive mercury, not into the Current, that which vagrant Impoſtors talk ſo loud about, <hi>ſerd in Sementem viſcidam,</hi> but into a viſcid, limous Sement, or Seedplot, out of which a living Germen, <hi>Leo Suaviſſi<g ref="char:EOLhyphen"/>mus</hi> the mercury of the Magicians, ſhows it ſelf. Hence it appeares what manner of Mercury it is, and into what principles the metals are to be reſolved, unleſſe we would have Tinctures to paſſe into a uſeleſſe duſt, or powder, that has no Ingreſſion into me<g ref="char:EOLhyphen"/>tals fuſed, but ſwims upon them to no pur<g ref="char:EOLhyphen"/>poſe. From metals, indeed are made Tin<g ref="char:EOLhyphen"/>ctures, when out of their Subſtance primor<g ref="char:EOLhyphen"/>dials are drawn, which move themſelves on (if They be right handled) into a viſcous Se<g ref="char:EOLhyphen"/>ment. But Out of metals, when perfect me<g ref="char:EOLhyphen"/>tals are compounded with their primordi<g ref="char:EOLhyphen"/>als in a form or appearance oleaginous ma<g ref="char:EOLhyphen"/>teriallys:
+<pb n="41" facs="tcp:170553:27"/> By metals again Tincture are made, in the projection of Tinctures upon perfect metals namely, that by Them as the meane, They may acquire their due Conſiſtence. And then laſtly with metals fuſed, are per<g ref="char:EOLhyphen"/>fect metals made, namely by Tranſmutation of Thoſe that are Imperfect to perfect by help of med'cins already perfect. In Theſe we ſee <hi>Parace ſus</hi> haſt moſt Signally and briefly comprehended the Summe of the whole Art. See thoſe Things which not only <hi>Guido de monte</hi> delivers to us concerning this kind of preparation (for he is ſomewhat tedious in his prolix Circulations) but alſo what the moſt Experienced <hi>Iſaac Hollandus</hi> propoſes in a Tractate peculiar <hi>de Salibus &amp; Oleis me<g ref="char:EOLhyphen"/>tallorum,</hi> of the Salts and Oils of metals (al<g ref="char:EOLhyphen"/>though they require That <hi>furnus clauſus Re<g ref="char:EOLhyphen"/>verberii,</hi> with its little mount within, known but to few, and uſed by <hi>Paracelſus</hi> otherwiſe they cannot ſo well be prepared) the other Things are of themſelves open e<g ref="char:EOLhyphen"/>nough, eſpecially if they be joyn'd, and com<g ref="char:EOLhyphen"/>pared with what he ſayes in his Tractate of the Oyle of Vitriol, and in That of Antimo<g ref="char:EOLhyphen"/>ny, and That of Mercury.</p>
+            <p>Yet in this place I cannot forbear, but I muſt add to Thoſe Two Teſtimonies of <hi>Bar<g ref="char:EOLhyphen"/>tholomeus Korndorferus,</hi> and the moſt Excel<g ref="char:EOLhyphen"/>lent <hi>Paracelſus,</hi> Another too of that moſt
+<pb n="42" facs="tcp:170553:28"/> monſtrous <hi>Franciſcan</hi> monk, who in the year 1419. writt a book in the German Tongue in Open words, to <hi>Burgrave Frederic</hi> Mar<g ref="char:EOLhyphen"/>quis of <hi>Brandeburg:</hi> but the book for many cauſes was never brought abroad by the Preſſe. In It, many Tinctures of metals, gemmes, &amp; pearles, are contain'd; with many other choiſe Arcana's. He therefore in that place, where he comes to the Tincture of Venus and Sol, by the help of which he teaches how to convert Luna into Sol, This Sol (ſayes he in open words) does more than another Sol: and ſhows the way that we muſt proceed. <hi>Leonhardus Turniſerus</hi> complains very much that he loſt a Compendium of It in the Tower of <hi>Kuſſenberg</hi> ſome years agoe: but there is yet extant in <hi>Schobinger's</hi> Library an older Copy. To theſe there is a neer correſpon<g ref="char:EOLhyphen"/>dence of thoſe five particular Tinctures that goe about inſcribed in little books of bark, riſing almoſt from the ſame foundation with the former, only in them the pure is not Separate from the Impure Terreſtrial Sul<g ref="char:EOLhyphen"/>phur: otherwiſe then with the Monk, who ſhows how to caſt away the leprous Earth: by which it comes about that his particu<g ref="char:EOLhyphen"/>lar Tinctures are ſo much the better, and tinge deeper, by how much they ex<g ref="char:EOLhyphen"/>ceed the other in Subtilty and Penetra<g ref="char:EOLhyphen"/>tion.</p>
+            <pb n="43" facs="tcp:170553:28"/>
+            <p>But let us now return to Count <hi>Bernhard Treviſan,</hi> who in the ſecond part of his book writes expreſly in theſe words: <hi>Curr, damno tan tem expertus ſum, quòd in metallis, &amp;c.</hi> To my loſſe, I found at length by Experience; That it muſt needs be hid in metals, <hi>&amp;c.</hi> Where he alleadges that ſaying of <hi>Geber,</hi> No thing that is Extraneous, and that is not com<g ref="char:EOLhyphen"/>pounded of metals, or born of them, is able to perfect them, or cauſe their regeneration, or Tranſmutation. But the ſame <hi>Bernhard</hi> again ſayes: <hi>Corpora perfecta,</hi> &amp;c. Perfect Bo<g ref="char:EOLhyphen"/>dyes, which by nature are ſimply perfect are only perfect in their Simple degree, and un<g ref="char:EOLhyphen"/>leſſe by Art they can be made <hi>(pluſquam per<g ref="char:EOLhyphen"/>fecta)</hi> more then perfect, they cannot con<g ref="char:EOLhyphen"/>tribute to Imperfect bodyes: but if (ſayes he) they be handled by Art, and according to Art be perfected in the Philoſophers manner (mark the words) then the way lyes open, and it is eaſily deprehended what they are a<g ref="char:EOLhyphen"/>ble to effect. For Our Gold is not vulgar Gold, nor our Silver the Silver of the vulgar: becauſe they, ſo long as they remain in their own Subſtance, are no better then dead; nor have they any Efficient power, as we may ſee in the Codex of truth, that is, the <hi>Turba Philoſophorum.</hi> Hence alleadging that Golden Saying from <hi>Geber</hi> the Arab: <hi>Quicunque ignorat Radices Minerarum, &amp;.</hi>
+               <pb n="44" facs="tcp:170553:29"/> 
+               <hi>Simplices &amp; Compoſitas, &amp;c.</hi> Whoſoever knows not the Roots of Mines both Simple and Compound, he knows not the principles of Nature, and therefore not of Art: and by Conſequence is a Sophiſter, not a Chymiſt. By Simple roots, underſtand, thoſe that are in the Univerſal moſt Univerſal: by com<g ref="char:EOLhyphen"/>pounded, thoſe that are made up out of Mercury reſolved together with a certain mineral homogeneous Earth, into a Viſcous Liquor; in all which the germinant and Tin<g ref="char:EOLhyphen"/>gent force of the Univerſal moſt Univerſal abides ſpiritually, and flowes in the fire like to wax without noiſe after a due Rectifica<g ref="char:EOLhyphen"/>tion; by which alſo (namely ſuch compound roots) Gold attenuated melts like butter, and grows into the Philoſophers ſtone. therefore <hi>Bernhard</hi> having intenſely ſearcht into Nature affirms, that he had alwayes be<g ref="char:EOLhyphen"/>fore him that Saying of old <hi>Oſthanes,</hi> (<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c.) <hi>Natura naturam con<g ref="char:EOLhyphen"/>tinet: Natura naturam ſeparat: natura obvi<g ref="char:EOLhyphen"/>ans naturae ſuae laetatur, &amp; in alienas tranſmu<g ref="char:EOLhyphen"/>tatur naturas,</hi> Nature contains nature, nature ſeparates nature, nature meeting with its own nature rejoyces in it, and is tranſmu<g ref="char:EOLhyphen"/>ted into other Natures. Whereof the two firſt, teach that the metals as they are in themſelves are not to be taken, but that thoſe things are to be Extracted from them
+<pb n="45" facs="tcp:170553:29"/> that are Contain'd in them (for he confeſſes that he learnt by his loſſe, that the thing he ſought for ſhould be hid in metals). And the two laſt ſhow the friendly, Conjunction of Gold with the roots of the Mines, and comprehend the Tincture conſequent from thence: which things it is ſufficient to have pointed at, and ſhown diſtinctly ſo far. And now, ſince I have proved as much as can be deſired, that our Philoſophical Gold, pro<g ref="char:EOLhyphen"/>duced out of the Inferior metals by Nature &amp; Art, does yield us a Tincture of Gold Phi<g ref="char:EOLhyphen"/>loſophical Diſtinct from the Stone; I ſhall conclude the whole matter out of <hi>Baſil. Valentin</hi> therefore in his <hi>Occult</hi> Philoſophy towards the End, writes of a Stagge, whoſe hornes were of pure Gold, and had got ma<g ref="char:EOLhyphen"/>ny thouſands of antlets, or branches budding from them, which Stagge ran into a Green wood, and many huntſmen to this day range for him, and purſue him. The meaning of this riddle is not hard to be conjectured from what is ſaid above: beſides that of <hi>Baſil</hi> him<g ref="char:EOLhyphen"/>ſelfe in the end of his Triumphal Chariot it is ſufficiently declared, namely how this Stagg ſo much ſought for, may be taken by lively and Induſtrious hunting. For he teaches to purſue him by the multiplyed Stone of Fire, of which one part falls upon five of Luna, and the other things that follow in the ſame
+<pb n="46" facs="tcp:170553:30"/> place. By which it more then abundantly appears what ſort of metal our Philoſophi<g ref="char:EOLhyphen"/>cal Gold is, and whence it is produced, of Luna namely Tinged into Sol, whence the Golden Stagge exiſts: which Gold indeed (as <hi>Baſil</hi> is witneſſe) muſt again be bruiſed, o<g ref="char:EOLhyphen"/>pen'd, and further ſubtiliated, before it paſſe into a better Stone, that is, the Tincture of the Sun: <hi>Paracelſus</hi> likewiſe glancing at the ſame Thing in his book of minerals writes thus: If the Alchymiſts could find that Sulphur of Gold, as very well it may be found (ſayes he) <hi>In Arbore Auri &amp; Ejus Radice,</hi> in the Tree of Gold and the Root of It, (for this is their great Scruple: <hi>Non alte<g ref="char:EOLhyphen"/>rum illud,</hi> not That other Gold) they might indeed rejoyce at it, &amp;c. Thus far then of our Magical Gold unknown to moſt men, and hitherto unobſerved, &amp; undiſtinguiſht. Now towards the end of our Manuduction for a Cloſe and a Crown, we ſhall, out of <hi>Ba<g ref="char:EOLhyphen"/>ſil,</hi> annex a ſhort way of the preparation of the Tincture of Sol, and of the chief ſtone of the Philoſophers, when in a few words I have premiſed This, That even in common Salt, and in a certaine Other almoſt Conge<g ref="char:EOLhyphen"/>nerous to it, there are very hidden powers and ſecret forces, which are able to doe ma<g ref="char:EOLhyphen"/>ny wondrous things for us compounded with Gold, and with the Oiles of Vitriol
+<pb n="47" facs="tcp:170553:30"/> and Antimonie rightly prepared. Moſt ſure it is, that common Salt gives us an excellent Potable Gold by the Spirit of wine, if after its due Calcination it be Cryſtalliz'd, and diſtill'd by it ſelfe into a ſweet Oile. Which proceſſe, plainly conforme to that of <hi>Baſil,</hi> we owe to a Noble perſon, and a dear com<g ref="char:EOLhyphen"/>panion of mine, who had it from him; to ſay nothing of other Arcana's out of Salt, For indeed it is <hi>Paracelſus</hi> his <hi>circulatum minus,</hi> his leſſer Circulat, which he calls by its peculiar right, the Matrix of all Metalls, e<g ref="char:EOLhyphen"/>ſpecially the Sea-ſalt, with which the <hi>Majus Circulatum,</hi> his great Circulat from Mercury Sublimate agrees: What ſhould I ſay of the ſweet Oyle of Antimony, ſo induſtriouſly ſought by <hi>Crollius,</hi> and miſt, not ſo faithfully communicated to me by the ſame freind as other things?</p>
+            <p>Now as for the Tincture of Sol Philo<g ref="char:EOLhyphen"/>ſophical; if it be truly prepared, it muſt be a done by a juſt and cue Anatomie of Gold: ſo that firſt his pureſt Sulphur, and moſt highly graduat muſt be extracted with<g ref="char:EOLhyphen"/>out any Corroſive, and Separate from all its extremities and dregs. Afterwards, the Salt of our Philoſophicall Gold, which will appeare white as milk, muſt not only be extracted, but muſt alſo bee brought to a Tranſparent Serenity, by which afterwards, it may more
+<pb n="48" facs="tcp:170553:31"/> eaſily melt like butter in the extract of the ſulphur of Gold, and together with it come over the helm. And when theſe two are thus exalted, then ſuperfuſed to the reſidue of their mercury, preſently after the Solution made, they will precipitate it to the bottom of the veſſell. Hence all the Three viſcous principles muſt be putrified in the philoſo<g ref="char:EOLhyphen"/>phers glaſſe, and going on, from thence be raiſed again to a new life by their owne pro<g ref="char:EOLhyphen"/>per body and Salt, till they paſſe into a Re<g ref="char:EOLhyphen"/>generat aſtral fixt and perſeverant Eſſence, which by the Initial Craſis of its three prin<g ref="char:EOLhyphen"/>ciples may be multiplyed and augmented in the ſpace of a month, both in its virtue and quantity. Thus much briefly, of the Tincture of Sol.</p>
+            <p>But as for the Philoſophers Stone, another way is to be taken, for it admitts (againſt the common opinion) of a duplicity of pre<g ref="char:EOLhyphen"/>preparation, namely, either by Compoſition of its mineral root Simple with Gold Re<g ref="char:EOLhyphen"/>ſolved, the way of <hi>Baſil</hi> in his Twelve keyes, or by Conjunction of Gold with the Com<g ref="char:EOLhyphen"/>pounded rootes of the mines, from which line the Stone of fire prepared out of the Mercury of Antimony, and the vitriol of Venus and Mars by their own Sulphur re<g ref="char:EOLhyphen"/>ced es little, or nothing at all. But of the nature of this, I have ſayd enough before,
+<pb n="49" facs="tcp:170553:31"/> from which likewiſe differs not that parabo<g ref="char:EOLhyphen"/>licall Deſcription <hi>de nobili Solis flore,</hi> not long agoe brought out of the <hi>Archivis</hi> of ſome eminent Citty of the Empire, which delivers the whole proceſſe very freely, al<g ref="char:EOLhyphen"/>though it dazle the Eyes of many pretending Sophiſters. But out of this compound, vari<g ref="char:EOLhyphen"/>ous particular Tinctures may be had, of which I forbear to ſpeak more now. But fol<g ref="char:EOLhyphen"/>lowing the mineral root Simple of the Uni<g ref="char:EOLhyphen"/>verſall Moſt Univerſal, we ſay with <hi>Baſil</hi> in the end of his Memorial Table, that here there is no need, as we taught in the tinc<g ref="char:EOLhyphen"/>ture of Sol, that Gold ſhould be ſomuch de<g ref="char:EOLhyphen"/>ſtroyed that it may be Juſtified in its Ele<g ref="char:EOLhyphen"/>ments, and ſo the firſt eſſence of its root be ſought and brought forth to the light. Nor is it a neceſſity, that That in the compounds ſhould be done: for there are ſome who by an Eſſence Mercuriall, extract the ſoul of Gold, the Gold Itſelf remaining almoſt in<g ref="char:EOLhyphen"/>tire, by which they exalt their work to ſuch an excellence, that a knife being perpendicular<g ref="char:EOLhyphen"/>ly let down into that Tincture of their Stone, and taken up ſo again, then only wiped with a little papyr, and that papyr caſt upon mol<g ref="char:EOLhyphen"/>ten Gold although nothing at all ſeemed to adhere to the knife yet only by the odor of the Tincture, they have converted a
+<pb n="50" facs="tcp:170553:32"/> whole ounce of Lead into perfect Gold in all probates, as thoſe have told me that ſaw it done, whoſe mindes when as before they were much averſe from this ſtudy, became afterwards eager purſuers of the Art.—But (ſayes <hi>Baſil),</hi> It is every mans part that adheres to this Science, and will be in love with ſo pretious a thing, to ſearch diligently after the Golden Magnet, (viz. of the Uni<g ref="char:EOLhyphen"/>verſal moſt Univerſal) to know it very well, which he ſhall find <hi>in unicâ re unicè,</hi> in one thing alone and none but that; and its root in one only matter, (wherewith Subti<g ref="char:EOLhyphen"/>liated Gold by help of a kindly liquor is to be reſolved and with continual fire, and in a furnace Philoſophical, to be excited, cheriſht, &amp; ſo long decocted, till it paſſe into a tranſpa<g ref="char:EOLhyphen"/>rent Stone like a Ruby) of which, ſays <hi>Baſil,</hi> our potable Gold is made more perfect, than it can of Gold Itſelfe, which ought firſt to be made Spiritual, before potable Gold can be prepared out of it, as he has it <hi>Chap.</hi> the ſixt of things Supernatural, &amp; <hi>Chap.</hi> the ſeventh pag 93. For this Caerule, or Azurine Spirit, which is both in the Saphir and in Luna, is the Sulphur and the ſoul (ſayes he) from whence both Gold and Silver enjoy and ex<g ref="char:EOLhyphen"/>cerciſe their vegetall life. Hence <hi>Baſilius</hi> in the Repetition of the Great ſtone pag. 114
+<pb n="51" facs="tcp:170553:32"/> 
+               <hi>Lunae ſpiritum ſpiritui Solis perinde appropriari ait, atque viro faeminam &amp;c,</hi> ſayes, The ſpirit of Luna is appropriated to the ſpirit of Sol, as a woman to a man, both in the Earth (where metalls are firſt generated) and then upon it where the metalls are made by Art. Then again, the white Tincture (ſayes he) is pla<g ref="char:EOLhyphen"/>ced in the Magnetic Form of that one onely thing, in which likewiſe is found the firſt ens of Gold. And with words to the ſame ſenſe, after the rectification of the Lunar Tincture deſcribed, together with the preparation of it, he ſhuts up that Chapter: But if thou doeſt know (ſayes he) the <hi>primum Mobile</hi> of the mall (there needs not ſomuch of the circu<g ref="char:EOLhyphen"/>lations of compoſitions) <hi>quandoquidem opus ex uno perficere potes,</hi> becauſe thou mayſt doe thy worke by one. But what this one is, we muſt ſeeke in the nature of the Mineral king<g ref="char:EOLhyphen"/>dom. But yet, that he might not leave it alto<g ref="char:EOLhyphen"/>gether untoucht upon, and ſo deſert his rea<g ref="char:EOLhyphen"/>der in the mid'ſt of his courſe, he everywhere intimates that it is not far from every one of us. For ſo, in his book of Naturalls chap. the 4th, pag. the 56, he complains that the ſons of men doe not obſerve, but rather con<g ref="char:EOLhyphen"/>temne that which God has layd before us in nature, in which there is a great ſecret. To the ſame ſentence, in the end of his Memorial
+<pb n="52" facs="tcp:170553:33"/> Table: The true root (ſayes he) is vile, and even viſibly expoſed to the eyes of the vul<g ref="char:EOLhyphen"/>gar, and yet unknown; and, if not by a various proofe premonſtrated, it ſtill lyes hid to a man in the Dark. For all the world (as <hi>Bernhard</hi> likewiſe bears witneſſe) looks upon it, ſees it, and does not know it. So of the great myſtery of the leſſer world, towards the endpag. 220. The <hi>Materia prima,</hi> The firſt matter (ſayes he) is manifeſt before the eyes of the whole world, and yet known to very few, and in all places to be found, to wit, Mercurius, Sulphur, &amp; Sal, and Mineral wa<g ref="char:EOLhyphen"/>ter, or Metallic liquor, <hi>tanquam-centrum</hi> as a center, <hi>â Formâ ſuâ ſeparata,</hi> ſeperated from its from <hi>(the prima materia</hi> or mineral water underſtand ſeparated) and made up of theſe three Incipients. But chiefly, in the end of his laſt chapter <hi>de rebus naturalibus, Omnia (inquit) quae poſt Antimonium, Vitriolum, Sul<g ref="char:EOLhyphen"/>phur, Magnetem, praecipuè dotata ſunt praealiis, et affinia its, ex quibus Aurum et Argentum prin<g ref="char:EOLhyphen"/>cipium, medium, et finem ſuum ſortiuntar &amp;c.</hi> All thoſe things (ſayes he) which after Anti<g ref="char:EOLhyphen"/>mony, Vitriol, Sulphur, and the Magnet, are in an eminent manner above others endowed with, and nearer a kin to thoſe principles, from which Gold and Silver derive their beginning, middle, and end, together with
+<pb n="53" facs="tcp:170553:33"/> true tranſmutation and alteration particu<g ref="char:EOLhyphen"/>larly; received their virtue, force, and power <hi>ex unare,</hi> from one thing, in which all theſe are Secretly and Inviſibly layd up-till their birth, together with all the metalls: To which he adds: <hi>Quae materia manifeſta eſt coram oculis omnium:</hi> Which matter is manifeſt before the eyes of all men. But becauſe the virtue, force, and power of It, is buryed very deep, and ſo unknown to moſt, it comes about that this Materia is accounted as nothing, and by Ig<g ref="char:EOLhyphen"/>norance thought and reputed utterly inſigni<g ref="char:EOLhyphen"/>ficant and unfit, to the purpoſe of Art.</p>
+            <p>The name of it (ſayes he) is <hi>Hermes,</hi> who carries for his enſigne a Serpent volant, and has to his wife, her who is called <hi>Aphrodita;</hi> that knowes the hearts of all mortalls: and yet all theſe are but one thing, <hi>Unica Res Unicè et Eſſentia,</hi> One ſingle only Thing or Eſſence, which (ſayes he) is common in all coaſts, known in all places, every one takes it in his hand, and uſes it to vile things; the vile he accounts pretious, and rejects the pretious. In ſum, ſayes he. It is nothing elſe but Water &amp; Fire, whence Earth with the addi<g ref="char:EOLhyphen"/>tament of Ayr is born, and ſtill preſerved. In theſe he fully ſetts before the eyes of all men the matter of the Interior Root.</p>
+            <p>Therefore here, as at the Goal of the Uni<g ref="char:EOLhyphen"/>verſal
+<pb n="54" facs="tcp:170553:34"/> moſt Univerſal, we too muſt ſtop and make our ſtand in the mineral kingdom, af<g ref="char:EOLhyphen"/>ter the Recount of Univerſals, and almoſt all particular Tinctures, of which we have hi<g ref="char:EOLhyphen"/>therto had any notice. Only one thing I thought good to add for their ſakes, who think, There it nothing at all true, or profi<g ref="char:EOLhyphen"/>table, <hi>extra Univerſale Univerſaliſſimum,</hi> without, or beſides the Univerſal moſt Uni<g ref="char:EOLhyphen"/>verſal; and therefore deny that particular Tinctures are to be ſought and had, without the compaſſe of That. To Thoſe indeed I can eaſily grant, that, the Univerſal matter had, and rightly known, <hi>poſſe ex ea certiffima pa<g ref="char:EOLhyphen"/>rari particularia,</hi> moſt certain particulars may be made out of it. But it is not therefore conſequent, that in this and the other bough and branch, growing out of the univerſal Materia, although in the ſpecies differing from it, there ſhould be no power of tranſ<g ref="char:EOLhyphen"/>mutation, which both experience bears witneſſe to, and the learned acknowledge, as <hi>Chryſippus Fannian</hi> in his Metamorphoſis, &amp; <hi>Aqinas</hi> himſelf <hi>de Corporibus Supercelaſti<g ref="char:EOLhyphen"/>bus et Inferioribus</hi> cap. 4 <hi>et deinceps.</hi> Nor does it follow, Count <hi>Treviſan</hi> in all his life found no particular of any moment, there<g ref="char:EOLhyphen"/>fore nobody elſ can find one, or, that it is falſ<g ref="char:EOLhyphen"/>ly affirmed by others. For to ſay nothing how
+<pb n="55" facs="tcp:170553:34"/> Count <hi>Bernhard</hi> ſought for the Univerſal (which certainly is to be found in no Parti<g ref="char:EOLhyphen"/>cular <hi>extra Univerſale)</hi> both what not only <hi>Baſilius</hi> had ſaid of the Stone of fire, and of the diſtinct Tinctures of metalls, and what Others, ſufficiently refutes him: but alſo what <hi>Paracelſus</hi> of the Epatica of Sulphur, and Luna converted into Sol by the oile of ir; and That which <hi>Korndorferus</hi> relates <hi>de Lapide Schiſto,</hi> of the Stone <hi>Schiſtus,</hi> for an ability to the fixing of Luna, although both in the vulgar Sulphur, and in <hi>Korndorfer's</hi> Schiſtus, which is a certain very eager ſharp ſalt, even <hi>Baſil</hi> himſelfe by a miſtake denyes any power of tranſmutation. So on the other ſide there are ſome, who, having got ſome either univerſal, or particular Tincture, forthwith inſolently cry it out, That there is no other Univerſal, but that of theirs; <hi>Adeò plaerique nobis Suffaeni ſumus omnes,</hi> So apt are we all to hugge ourſelves in our own con<g ref="char:EOLhyphen"/>ceits, and ours. But to have pointed at this by the way, is enough for us. May the great and good God grant by his eternall Spirit, in his only begotten Son, conſubſtantial to him, our Emanuel, that we fix not our hearts on theſe Terreſtrial goods the Mammon of this world, neglecting the celeſtiall, but that we may ſeriouſly look after a better treaſure
+<pb n="56" facs="tcp:170553:35"/> laid up in heaven, and, apprehending it by Faith, expecting it in certain hope, in a courſe of unwearied piety joyn'd with love, we may aſpire to it, and attain it, through and for Jeſus Chriſt: who with the Father, and the Holy Spirit, is the One only Jehovah, bleſſed for ever. To whom be the Prayſe and Glory to all eternity, Amen.</p>
+            <trailer>Finis Cherragogiae Helianiae,</trailer>
+            <byline>per Adeptum Anonymum.</byline>
+         </div>
+         <div type="alchemical_treatise">
+            <pb n="57" facs="tcp:170553:35"/>
+            <head>ΑΝΤΡΟΝ ΜΙΤΡΑΣ. ZOROASTER'S CAVE. OR, The Philoſopher's Intellectuall Echo to One another from their <hi>CELLS.</hi>
+            </head>
+            <div type="part">
+               <head>Of Mercurie and Sulphur.</head>
+               <head>ECHO Prima.</head>
+               <p>
+                  <seg rend="decorInit">D</seg>Ry water from the Philoſophers Clouds! Look for it, and be ſure to have it, for it is the key to inacceſſibles, and thoſe locks that otherwiſe would keep thee out. <bibl>
+                     <hi>Chorus omnium.</hi>
+                  </bibl>
+               </p>
+               <p>It is a middle nature between fixt, and not fixt, and partakes of a Sulphur Azurine. <bibl>
+                     <hi>Iſaacus Flander, &amp; Gymnoſophiſtae apud Phi<g ref="char:EOLhyphen"/>loſtratum.</hi>
+                  </bibl>
+               </p>
+               <p>It is a Raw, Cooling, Feminine fire, and expects its Impregnation from a Maſculine, Solar Sulphur. <hi>Ariſtot. Arabs.</hi> It is the only compleat Angell to the Infern, or Bottom
+<pb n="58" facs="tcp:170553:36"/> of the earth, where all the Treaſures are hid. <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <bibl>Apollo <hi>apud Homerum in Hymno ad Mercurium.</hi>
+                  </bibl>
+               </p>
+               <p>All that are converſant in this Art, learn from Experience, and all good Authors, That the true matter and ſubject of this ſtone, has Gold and Silver in potentiality, and Argent vive naturally, or actually: Which Gold and Silver are much better than thoſe men com<g ref="char:EOLhyphen"/>monly ſee and handle, becauſe theſe are alive and can increaſe; the other dead: And if this could not be effected, the matter would never be brought to its perfection, which this art promiſes; which is indeed ſo efficacious as to perfect Imperfect metalls. But this ſame inviſible Gold or Silver, which by this Ma<g ref="char:EOLhyphen"/>giſtery is exalted to ſo ſublime a degree, cannot communicate its perfection to imper<g ref="char:EOLhyphen"/>fect metalls, without the help and ſervice of vulgar Gold and Silver. <bibl>
+                     <hi>Adeptus Anony<g ref="char:EOLhyphen"/>mus apnd Combachium.</hi>
+                  </bibl>
+               </p>
+               <p>The Sun and the Moon muſt be in Con<g ref="char:EOLhyphen"/>junction that they may abſolve perfect gene<g ref="char:EOLhyphen"/>ration. <hi>Arnoldus Villanovan in flore florum.</hi> No corruption, that is, no mutation or paſ<g ref="char:EOLhyphen"/>ſage of one form into another can be made, without the mediation of Putrefaction, (which is the ſole mean and way to Gene<g ref="char:EOLhyphen"/>ration) nor any putrefaction be had, without ſome Mercury, or Argent vive, which is the
+<pb n="59" facs="tcp:170553:36"/> ſpecial delator, or conductor of the vegetant faculty, called by Philoſophers, The viridity of Nature.</p>
+               <p>
+                  <bibl>
+                     <hi>Anonymi Adepti-Sal, Lunien, et Spiritus Uni<g ref="char:EOLunhyphen"/>verſi.</hi>
+                  </bibl> Minerals have their Roots in the Ayre, their Heads &amp; Tops in the earth. Our Mercury is Aereal; look for it therefore in the Ayre, and in the Earth. <bibl>
+                     <hi>Calid Aegyptius.</hi>
+                  </bibl> It is the potentiall vapor of metals. <bibl>
+                     <hi>Aegidius de Vadis.</hi>
+                  </bibl>
+               </p>
+               <p>Our Stone is the conjunction of Sol and <hi>Luna,</hi> till Sol has drawne the ſubſtance of <hi>Luna</hi> to his Nature and colour. <hi>Lullii</hi> Co<g ref="char:EOLhyphen"/>dicillus. And this is done by the inward fire, or ſulphur of the ſtone <bibl>
+                     <hi>Idem ibidem.</hi>
+                  </bibl>
+               </p>
+               <p>Minerals made of living Mercury, and li<g ref="char:EOLhyphen"/>ving Sulphur, are to be choſen: worke with them ſweerly, not ſwiftly with precipitance. <bibl>
+                     <hi>Daſtinus-pag</hi> 55.</bibl>
+               </p>
+               <p>The thing that works perfection in metalls is the ſubſtance of Argent vive and Sulphur proportionally mixt, by long and temperate Decoction inſpiſſate and fixt in a Wombe of clean earth; with conſervation of his radi<g ref="char:EOLhyphen"/>call not corrumpent humidity, wrought up to a ſolid ſubſtance, with due ignition fuſible, and under the hammer Extenſible. <bibl>
+                     <hi>Geber, de Inveſtig: cap.</hi> 2.</bibl> Thoſe that know the Mercury and Sulphur of the Philoſo<g ref="char:EOLhyphen"/>phers: know that they are made of pure Gold and the fineſt <hi>Luna,</hi> and Argent vive, which are dayly ſeen, and lookt upon, from which
+<pb n="61" facs="tcp:170553:37"/> our Argent vive is elicited. <bibl>
+                     <hi>Bernardus de Gran<g ref="char:EOLhyphen"/>pag.</hi> 1. <hi>Manuſer. vetuſtiſs:</hi>
+                  </bibl>
+               </p>
+               <p>Our Stone is the potentiall vapor of Metal; and how to get this, thou muſt be very care<g ref="char:EOLhyphen"/>full and wary.</p>
+               <p>
+                  <bibl>Aegidius de Vadis</bibl>
+               </p>
+               <p>Our Water is a luſtral, or expiaring eſsence, and the cauſe efficient of the clarity of the whole body, and med cine. Two things it works in the earth: It waſhes it, It tinges it: As it waſhes, it is Water; as it tinges, it is Ayre <hi>Ludus puerorum.</hi> The ancients call'd our Ar<g ref="char:EOLhyphen"/>gentvive <hi>Aqua Sicca,</hi> Dry water,</p>
+               <p>
+                  <bibl>Tauladan.</bibl>
+               </p>
+               <p> It is apparent, what that Argent vive is that <hi>Geber</hi> points at, in his Summa to be taken, namely, the Cleane ſubſtance of fixt Mercury, ſhut up in Sol and Luna.</p>
+               <p>
+                  <bibl>
+                     <hi>Idem, pag,</hi> 193.</bibl>
+               </p>
+               <p> Argent vive in its firſt root is compoun<g ref="char:EOLhyphen"/>ded of white earth, ſubtile, and ſulphureous ſtrongly mingled with a bright and clear water, united with ſuch an union, <hi>per mini<g ref="char:EOLhyphen"/>ma,</hi> till the moyſt be tempered with the drie, and the drie with the moyſt equally into one Intimate ſubſtance, that will not reſt on a plain Surface, nor adhere to the Tangent becauſe of its Siccity, which has altered and cohibited the Aqueity in it. But it is homo<g ref="char:EOLhyphen"/>geneous
+<pb n="61" facs="tcp:170553:37"/> in its nature: for it either remains all in the fire, and fixt; or elſe, all flyes a<g ref="char:EOLhyphen"/>way in fume; becauſe it is Incombuſtible, and Aereal. And this is a ſigne of perfection. <hi>Richardus Anglicus Philoſoph.</hi>
+               </p>
+               <p>
+                  <bibl>Vetuſtus.</bibl>
+               </p>
+               <p>
+                  <hi>Mercurius crudus,</hi> Mercury crude, diſ<g ref="char:EOLhyphen"/>ſolves bodyes, and reduces them to their Materia prima: but the <hi>Mercurius corporum</hi> the Mercurie of Bodyes cannot do it. <hi>Holcot Anglus.</hi> The Mercury of the Philoſophers is compounded of Mercury Crude and the Mercury of Bodyes, by an Union Intimate and Inſeperable, as there is in Simple water mixt with Simple water. <bibl>
+                     <hi>Libanius Gallus, apud Trithemium</hi>
+                  </bibl>
+               </p>
+               <p>By a Lucid Key he opened ſecret places, otherwiſe inacceſſible, and within was great ſtore of Siver and Gold.
+<q>
+                     <l>
+                        <gap reason="foreign" resp="#OXF" extent="1 span">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign" resp="#OXF" extent="1 span">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <bibl>Mercurius Antiquoruum apud Homerum.</bibl>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:170553:38"/>
+               <head>The Names of the Materia to the Magical practice. Echo II.</head>
+               <p>WHen our materialls are Amalgamated, that Amalgam, to conceale it from the unworthy, is call'd by Philoſophers our Venus, our Gold, The earth of Magneſia, the whole Compound. <hi>Jodocus Greverius pag.</hi> 21. I tell thee that our Semen is the true Salamander, conceived by fire, nurſed by fire, and perfected by fire.</p>
+               <p>
+                  <bibl>
+                     <hi>Idem pag.</hi> 36.</bibl>
+               </p>
+               <p> The matter which we need to our worke, is not the Hyle, or the Chaos, but the <hi>Materia prima propinqua,</hi> The firſt matter in a propin<g ref="char:EOLhyphen"/>quity, that is, the ſecond; which in Ani<g ref="char:EOLhyphen"/>mals is Sperm, in vegetals Seed, in minerals Sulphur, and Argent vive. <bibl>
+                     <hi>Ripleus Anglus. Sendivogius Polonus.</hi>
+                  </bibl>
+               </p>
+               <p>Sulphur perfectly clarified and dealbate, Philoſophers call Their foliated Earth. <hi>Vo<g ref="char:EOLhyphen"/>gelius manuſcriptus.</hi> The work yet Crude is call'd our Argent vive, water permanent, Our Lead, Our Saturn, the ſpittle of Luna, our Ju<g ref="char:EOLhyphen"/>piter. When better decocted, then it is Argent, then Magneſia, and white Sulphur. When it is Red, it's call'd Auripigment, Corall, Gold,
+<pb n="63" facs="tcp:170553:38"/> Ferment, a Stone, a Lucid Water of celeſtiall colour. <bibl>
+                     <hi>Adeptus Anonymus, Deſiderabile &amp;c.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <hi>Magneſia</hi> is That whole mixture from whence is drawn our humidity call'd Argent vive. <hi>Ludus puerorum. p:</hi> 136. The Dragon is the Sulphur that is Extracted from the Bodyes by the Magiſtery, <bibl>
+                     <hi>Nich: Flamellus Annot. in Democritum.</hi>
+                  </bibl>
+               </p>
+               <p>The liquor of Lunary, the vegetable Mer<g ref="char:EOLhyphen"/>cury, the quinteſſence, and water Ardent, are all one thing. With our liquor of Lunary, known but to few, is our Solution made, and our potable Gold; but without it, not at all. <bibl>
+                     <hi>Roſarium Philoſoph: p:</hi> 173.</bibl>
+               </p>
+               <p>Trouble not yourſelves about the diverſity of names, and the regiment of the work; for if we would make Sol, we muſt take Sol, if Luna, Luna for our Ferment.</p>
+               <p>
+                  <bibl>
+                     <hi>Daſtinus pag:</hi> 30.</bibl>
+               </p>
+               <p> Our Black Materia dealbated is called the Terra Foliata, Aſhes of Aſhes, ferment of ferment, and white Sulphur enduring the fire: and yet without Ferment neither Sol nor Luna will come forth, but ſomwhat that's as good as nothing.</p>
+               <p>
+                  <bibl>
+                     <hi>Lib: duorum verborum: p.</hi> 47.</bibl>
+               </p>
+               <p> Our Stone in the beginning is called water; when the body is diſſolved, Ayre, or Wind; when it tends to conſolidation, then it is
+<pb n="64" facs="tcp:170553:39"/> named Earth, and when it is perfect and fixt, it is called Fire. <bibl>
+                     <hi>Dominus Vobiſcum. p.</hi> 54.</bibl>
+               </p>
+               <p>Argent Vive is called Wind, that is, Aereal Argent Vive, the ſtrongeſt vinegar, poyſon Tingent, Virgins Milk, Burning fire, burning worſe than the fire of Hell.</p>
+               <p>
+                  <bibl>Incertus Author.</bibl>
+               </p>
+               <p> The Sone is called Adrop, that is Saturnus; becauſe, as Saturn is the chiefeſt of the Pla<g ref="char:EOLhyphen"/>nets; So our mercuriall Saturnine Stone, is the higheſt and moſt pretious of Stones.</p>
+               <p>
+                  <bibl>Saturninus.</bibl>
+               </p>
+               <p> Our compound is called by Philoſophers White Earth when it is white; and Red when it is Red. <hi>Scotus de Bufone:</hi>
+               </p>
+               <p>When our limous earth is whitened, we call it yharit, that is, Silver; and when it is made red we call it Temeinchum, that is, Gold: And it is whiteneſſe that tinges Ve<g ref="char:EOLhyphen"/>nus and makes it Yharit, and that redneſſe that tinges Yharit, and makes it Temein<g ref="char:EOLhyphen"/>chum, that is, Gold.</p>
+               <p>
+                  <bibl>Calid Egyptius, Philoſophus nobilis</bibl>
+               </p>
+               <p> Our matter is call'd the elementall Stone, becauſe the four elements are extracted from it: The mineral Stone, becauſe it is made only of mineralls: The vegetable Stone, be<g ref="char:EOLhyphen"/>cauſe it is nouriſht and augmented, which are the properties of the vegetative Soul: The Animal Stone, becauſe it is refreſht with
+<pb n="65" facs="tcp:170553:39"/> ſweet odors, and corrupted with ſtinking.</p>
+               <p>
+                  <bibl>Scotus de Bufone.</bibl>
+               </p>
+               <p> Our Stone is called Adrop, that is, Saturn.</p>
+               <p>
+                  <bibl>Speculum Arnaldi.</bibl> 
+               </p>
+               <p>Our Stone after its putrefaction is called Magneſia, and in the putrefaction it is called Saturnus, <hi>Idem ibidem.</hi> All the metalls when they are prepared by Art, then they are call'd Sol, Luna, Mercurius &amp;c. For before they were onely Gold, Silver, and Quickſilver. <hi>Marcilius Ficinus.</hi> The Incombuſtible Grain of metalls, is their radicall humidity; and is as a certain Seed of Sol, and Luna, which nature has inſerted to them, that upon op<g ref="char:EOLhyphen"/>portunity they may be Excocted to Sol and Luna by Nature in a long, by Art in a very ſhort, Time. <bibl>
+                     <hi>Vogelius.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <hi>Azot</hi> is a fift Eſſence, a body of itſelf Subſiſtent, differing from all the Elements, and all the Elementals both in Matter and Form, Nature and Virtue, having nothing of the Corruptible: and it is cal<g ref="char:EOLhyphen"/>led a fift Eſſence becauſe it is Extracted from four, and has in it no Elemental motion, as other Elemental bodyes, Tinging and puri<g ref="char:EOLhyphen"/>ſying metallic bodyes by its Colour, and Keeping from Corruption all other Bodyes that are joyn'd with it.</p>
+               <p>
+                  <bibl>Incertus Author.</bibl>
+               </p>
+               <p>
+                  <hi>Terra Alba,</hi> White Earth, White Sulphur,
+<pb n="66" facs="tcp:170553:40"/> White Fume, Auripigment, Magneſia, and Ethel, ſignifie the ſame, in this Art. <bibl>
+                     <hi>Tertia Synodus Pythagorica Manuſcripta.</hi>
+                  </bibl>
+               </p>
+            </div>
+            <div type="part">
+               <head>No way but one to the Sulphur of Nature. Echo III.</head>
+               <p>
+                  <hi>NEmo habet in Sulphure niſi Unum Iter.</hi> No road but one to find the quick Sul<g ref="char:EOLhyphen"/>phur. <bibl>
+                     <hi>David Arabs.</hi>
+                  </bibl>
+               </p>
+               <p>Thou needeſt but one thing, namely Water, and one operation, to wit Decoction, to White and Red, in one veſſell, under<g ref="char:EOLhyphen"/>ſtand of one kind.</p>
+               <p>
+                  <bibl>Alphid Arabs.</bibl>
+               </p>
+               <p> Although the wiſe men have varied names, and perplext their ſayings, yet they allwayes would have us think but of One Thing, one Diſpoſition, one Way. The wiſemen know this one thing; and, that it is one, they have often proved,</p>
+               <p>
+                  <bibl>Morienus Eremita Hreroſolymitanus.</bibl> 
+               </p>
+               <p>In a multiplicity of things our art is not perfected. For it is one ſtone, one med'cin, in which conſiſts the whole magiſtery: to which we add nothing extraneous, nor take away any thing, but only, in our preparation, that that is ſuperfluous</p>
+               <p>
+                  <bibl>Idem Eremita.</bibl>
+               </p>
+               <p> White and Red proceed from The ſame
+<pb n="67" facs="tcp:170553:40"/> Root without any other Kind intervenient. For it diſſolves, and conjoyns It ſelfe, makes it ſelfe Black and Citrine, white and red, eſpouſes Itſelfe, conceives, brings forth, and does all to the perfect end<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <bibl>Rhaſis Arabs. Et Idem Haly.</bibl> 
+               </p>
+               <p>If you Govern Our Braſſe, Our Venus, with Our Water, then you ſhall find all that is ſaid; otherwiſe, you doe nothing,</p>
+               <p>
+                  <bibl>Turba Philoſoph.</bibl>
+               </p>
+               <p> There is noway for the Rectifying of Bodies intirely and compleately without our Tincture, which is a Clean Seed, and has upon it the bleſſing of multiplication from Heaven,</p>
+               <p>
+                  <bibl>Aurora.</bibl> 
+               </p>
+               <p>Our water Gilded with Solar Sulphur is the Secret of the <hi>Aegyptians, Chaldeans, Arabians, Perſians,</hi> and <hi>Greeks, Hallelujah per Anonymum.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Number of the Components of the Magical Stone. ECHO. IV.</head>
+               <p>OF Sol and Luna thou mayſt make the perfect med'cin without Separation of the Elements, without labour, without fear without danger; they need a long
+<pb n="68" facs="tcp:170553:41"/> time, but they are ſafe. <bibl>
+                     <hi>Iſaacus Flander. lib.</hi> 2. <hi>mineral.</hi>
+                  </bibl>
+               </p>
+               <p>The Ancients labour'd in the Almagama<g ref="char:EOLhyphen"/>tion of Sol &amp; Luna, which is indeed the moſt perfect worke, and the Care little. <bibl>
+                     <hi>Idem ibidem.</hi>
+                  </bibl>
+               </p>
+               <p>Mercury alone perfects the works, in it we find all that we need, to it we adde no<g ref="char:EOLhyphen"/>thing extraneous. Sol and Luna are not Ex<g ref="char:EOLhyphen"/>traneous to one another, becauſe they in the beginning of the work are reduced into their firſt Nature (that is, Mercury), therefore from It they took their beginning.</p>
+               <p>
+                  <bibl>
+                     <hi>Divus Thom: Aquinas cap</hi> 3.</bibl>
+               </p>
+               <p>Wherefore I counſell you my friends, that you work not on any thing but Sol and Luna, reducing them into their firſt matter, that is, Our Sulphur and Argent vive. <bibl>
+                     <hi>Lullii Codicillus.</hi>
+                  </bibl>
+               </p>
+               <p>Of Sol vulgar, &amp; Luna vulgar, both Solute there is a preparation of Mercury vulgar. Of thoſe Three without any other Species, the Phyſic-Stone is generated, and of no o<g ref="char:EOLhyphen"/>ther can it be made by the Wit of Nature. <bibl>
+                     <hi>Incertus. Incipiens. Deſidrrabile.</hi>
+                  </bibl>
+               </p>
+               <p>The difference betwixt the Solar and the Lunar Tincture is This: The Solar contains Solar Sulphur; The Lunar, Lunar Sulph<g ref="char:EOLhyphen"/>ur, <bibl>
+                     <hi>Albertus Magnus.</hi>
+                  </bibl>
+               </p>
+               <p>The Stone is one: Yet This one, is not one in Number, but in kind.</p>
+               <pb n="69" facs="tcp:170553:41"/>
+               <p>
+                  <bibl>Scala Philoſoph.</bibl>
+               </p>
+               <p> Rebis is the firſt part of the work; Elixir the Second; Tincture the Third; and Medi<g ref="char:EOLhyphen"/>cin the fourth. Therefore it appears, That to Azoth Elixir is required, becauſe Elixir in this work precedes Azoth; For from Elixir, Azoth is extracted. But Azoth is that which is extracted by our Mercury from the bodyes diſſolved; and That is counted the Maturer, <bibl>
+                     <hi>Deſiderabile.</hi> 169.</bibl>
+               </p>
+               <p>Elixir is no other then the body reſolved into Mercurial Water, after which reſolu<g ref="char:EOLhyphen"/>tion Azoth is extracted out of it, that is, a Spirituous Animated Eſſence. <bibl>
+                     <hi>Idem.</hi>
+                  </bibl>
+               </p>
+               <p>In one Thing for ſpeices, and Two Indivi<g ref="char:EOLhyphen"/>duals It conſiſts and is perfected, firſt to White, then to Red, finally by increaſing the the fire.</p>
+               <p>
+                  <bibl>Petrus Valentiae.</bibl> 
+               </p>
+               <p>In the firſt Regimen, ſet the Crude and pure Elements upon an Eaſie fire, that they may be mingled and joyn'd together; govern them ſo that they may be deſiccate, or dried, and all be black; from which blackneſſe an Occult Whitneſſe is drawn, &amp; afterwards a Redneſs by decoction. And when it is in the perfect White, it is in Duſt Impalpable.</p>
+               <p>
+                  <bibl>
+                     <hi>Zininus. p.</hi> 68.</bibl>
+               </p>
+               <p> The Generation of Metalls and the Phi<g ref="char:EOLhyphen"/>loſophers ſtone is to conjoyn proper prin<g ref="char:EOLhyphen"/>ciples: videlicet, Man with Woman, Active
+<pb n="70" facs="tcp:170553:42"/> with a Pſſive, Sulphur with Mercury, that ſo Generation may enſue Corruption. Ar<g ref="char:EOLhyphen"/>gent Vive is the Recipient of the Form, and Gold the very Philoſophers Stone,</p>
+               <p>
+                  <bibl>
+                     <hi>Saturninus. pag</hi> 71.</bibl>
+               </p>
+               <p>The whole work conſiſts in Sol, Luna, and Mercury. <hi>Terſim. pagin:</hi> 103. Gold and Sil<g ref="char:EOLhyphen"/>ver are Metalls, out of which the Golden and Silver Elixirs are made.</p>
+               <p>
+                  <bibl>
+                     <hi>Tauladan Pag.</hi> 184.</bibl>
+               </p>
+               <p>Tinge with Gold, and Silver: becauſe Gold gives the Golden; and Silver, the Silver Na<g ref="char:EOLhyphen"/>ture and Colour.</p>
+               <p>
+                  <bibl>Richardus Anglicus.</bibl>
+               </p>
+               <p> It is neceſſary that the Stone before it be made Elixir, be extracted from the Nature of Two bodyes. <hi>Monachus.</hi> The fire ought to be very ſoft, till the Spirit be ſeparated from the Body, aſcending into black clouds above the body: By a Spirit Crude, a ſpirit Digeſted is Extracted from the body diſſol<g ref="char:EOLhyphen"/>ved.</p>
+               <p>
+                  <bibl>
+                     <hi>Idem pag.</hi> 167.</bibl>
+               </p>
+               <p> Take the Stone Suſpended upon the Sea, his name is <hi>Victor;</hi> with him ſlay the living, and enliven the ſlain; for in his power are Death, and Life.</p>
+               <p>
+                  <bibl>Incognitus qui incipit Exemplum Scientiae.</bibl>
+               </p>
+               <p> Our Mercury is drawn from the Calx of Metalls by putrefaction, till the Compound
+<pb n="71" facs="tcp:170553:42"/> put off one nature, and put on another. And ſo by ſuch Operations, is made the Mercury of the Philoſophers.</p>
+               <p>
+                  <bibl>
+                     <hi>Jacobus de Sancto Saturnino.</hi>
+                  </bibl>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Operations of Art in her Miniſtery and Attendance to Nature. ECHO. V.</head>
+               <p>NAture begins all her Actions from Seperation. Mortification is the firſt ſtep to Separation, and the only way to that End: for, as long as Bodies remain in their old Origin, Separation without putrefaction, or mortification, cannot reach them, <bibl>
+                     <hi>Anonymus Adeptus.</hi>
+                  </bibl>
+               </p>
+               <p>Amalgama, which is the firſt Work, is made with one of Sol, and four of Mercury. And this beginning of the Work the Philoſophers have called by many names, Our <hi>Venus,</hi> Our Gold, The Earth of Magneſia, The whole Compound. <bibl>
+                     <hi>Jodocus Greverius.</hi>
+                  </bibl>
+               </p>
+               <p>In the firſt Decoction, when thou art blacking, there will riſe from the Earth a certain humidity of Argent vive like a Cloud, and will ſtick to the upper part of thy vacant Oval by its ſides, which thou muſt let alone untoucht. <bibl>
+                     <hi>Idem.</hi>
+                  </bibl>
+               </p>
+               <p>Blackneſſe like that of the blackeſt Coal, is the Secret of True Diſſolution, <bibl>
+                     <hi>Raym. Lul<g ref="char:EOLhyphen"/>lius in Claviculâ.</hi>
+                  </bibl>
+               </p>
+               <pb n="72" facs="tcp:170553:43"/>
+               <p>Turne thy clouds into raine to water thy Earth, and make it fruitful. This Reduction of clouds into raine, is called by ſome <hi>Cauda Draconis,</hi> The Dragons Taile: and others ſay, that new Mercury is to be added. <bibl>
+                     <hi>Idem Greverius. pag.</hi> 22.</bibl>
+               </p>
+               <p>The bodyes are firſt to be Subtiliated by Diſſolution, which is the firſt Degree of the Work. And this Diſſolution is nothing elſe, but that bodyes be return'd into Mercury and Sulphur from whence they took their Original. But no other body can be reſolved into Mercury, but a Metallic, conſiſting of Mercury and Sulphur.</p>
+               <p>The Spirit of Metalls is part of Our Stone; and That we muſt evacuate from the bodys of metalls: namely from the two perfect by putrefaction, diviſion of Elements, and their fixation, <bibl>
+                     <hi>Raym. Lullius.</hi>
+                  </bibl>
+               </p>
+               <p>When the matter Aſcends by Wind, that is, by fume, the Philoſophers call it Subli<g ref="char:EOLhyphen"/>mation: when it is caſt into the bottom of the veſſel, and Converted into Water, they call it Solution, or Diſtillation: When the Earth is Inſpiſſate, they ſay it is Corruption: and when it begins to change from black, they call it Ablution. Extraction of Water from the Earth, and turning it on the Earth again, till the Earth putrefie, and be cleare again, is the Summe of our magiſtery. And
+<pb n="73" facs="tcp:170553:43"/> when the Philoſophers ſaw their Water di<g ref="char:EOLhyphen"/>miniſhed, and their Earth increaſed, they called it Ceration; Then, when all became Earth, they called their Work Congelation; and when White, Calcination. <bibl>
+                     <hi>Monachus. ex manuſcripto vetuſtiſs.</hi>
+                  </bibl> Diſſolution begets blackneſſe, Reduction Whiteneſſe, Fixion Citrinity, Inceration Redneſſe. Blackneſſe is the Earth, Whiteneſſe the Water, Citri<g ref="char:EOLhyphen"/>nity the Ayre, Redneſſe the fire, <bibl>
+                     <hi>Anonymus.</hi>
+                  </bibl>
+               </p>
+               <p>Solution turnes the Stone into its Materia prima, that is, into Water: Ablution into Ayre: Conjunction into fire: Fixion into Earth Spiritual and Tingent. <bibl>
+                     <hi>Scala Philoſoph.</hi>
+                  </bibl>
+               </p>
+               <p>Putrefaction is made by a moſt Gentle fire hot and moyſt, and no other, ſo that no<g ref="char:EOLhyphen"/>thing Aſcend. Deſponſation and Concepti<g ref="char:EOLhyphen"/>on is made by a kind putridneſſe in the Bot<g ref="char:EOLhyphen"/>tom of the veſſell.<bibl> 
+                     <hi>Roſarium pag.</hi> 198.</bibl> Burn with Water, waſh with Fire,</p>
+               <p>
+                  <bibl>Idem ibidem.</bibl>
+               </p>
+               <p>Labour not to make thy Mercury Diaphan that is, into a cleare, Tranſparent Water; for ſo it is too highly Inflamed, and Irre<g ref="char:EOLhyphen"/>ſtrinctible, and will never be fixt, never con<g ref="char:EOLhyphen"/>gealed. <bibl>
+                     <hi>Aureola.</hi>
+                  </bibl>
+               </p>
+               <p>When we Diſſolve, without any Intervall, we Calcine, Sublime, Seperate, &amp; Compound and between Solution, and Compoſition
+<pb n="74" facs="tcp:170553:44"/> of the body and Spirit, there intervenes no ſpace of Time.</p>
+               <p>
+                  <bibl>
+                     <hi>Alphid Arabs.</hi>
+                  </bibl>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Watering of Pegaſus at his own Fountain; and of his Other food out of the Ayre and Earth. ECHO. VI.</head>
+               <p>WIth the Water of Paradiſe bedew the Earth now clarified, and that Water will again Aſcend to heaven, and Deſcend a<g ref="char:EOLhyphen"/>gaine to the Earth to make it fertil, and bring forth White, Citrine, and Flamye Red flow<g ref="char:EOLhyphen"/>ers. <bibl>
+                     <hi>Iſaac Flander.</hi>
+                  </bibl>
+               </p>
+               <p>Cibation is the Nutrition of our Materia Sicca with milk and meate, both moderately given, till it be brought to the third order. <bibl>
+                     <hi>Ripleus Aglus.</hi>
+                  </bibl>
+               </p>
+               <p>Our Great buſineſſe is to make the Body a ſpirit, and the Spirit a body. But it is True, That if the Summe of the volatil exceed and Subdue the Summe of the fixt, it will finally be turned into a Spiritual body White or Red,</p>
+               <p>
+                  <bibl>Roſarius Minor.</bibl>
+               </p>
+               <p>The Earth does not Germinate without frequent Irrigation, nor receive Irrigation without Deſiccation. Therefore at every
+<pb n="75" facs="tcp:170553:44"/> Turn after deſiccation powre Water on it temperatly, neither too much, nor too litle. If too much, it will be a Sea of Conturbation. If too little, all is burnt to a light Cindar. <bibl>
+                     <hi>Dauſtricus, pag.</hi> 25.</bibl>
+               </p>
+               <p>Our divine Water, the Spume of Silver mingled with Magneſia, rids away the Darke Umbra of the body. <bibl>
+                     <hi>Democritus Apud Flamel<g ref="char:EOLhyphen"/>lum.</hi>
+                  </bibl> The Dragon born in Darkneſſe, is fed with his owne Mercury, ſubmerged in it, and then a little dealbated by it.</p>
+               <p>Keep a ſoft fire, till there be patience be<g ref="char:EOLhyphen"/>twen Water and Fire, and till the Spirit and Body become one.</p>
+               <p>
+                  <bibl>
+                     <hi>Monachus, pag.</hi> 14.</bibl>
+               </p>
+               <p>See that thou water it temperatly: for if it abound, it will be a Sea; and if there want, a Combuſtion will be made.</p>
+               <p>
+                  <bibl>Deſiderabile.</bibl>
+               </p>
+               <p>As in this work in its firſt Compoſition, nothing that is extraneous to its Nature en<g ref="char:EOLhyphen"/>ters: So neither does any thing Multiply it, that is not of its firſt Diſpoſition.</p>
+               <p>
+                  <bibl>Treviſanus.</bibl>
+               </p>
+               <p>The Magiſtery of the Philoſophers does not need a Commiſtion of any extraneous thing; but out of the proper ſeed metallic caſt into Philoſophicall earth prepared, it produces a Stone infinitely multiplicable, if it be nouriſht with its owne menſtrnum, or
+<pb n="76" facs="tcp:170553:45"/> humor Connatural, and be excited by the heat of the Philoſophers Sun from its Po<g ref="char:EOLhyphen"/>tentia into Act.</p>
+               <p>
+                  <bibl>Theobaldus Hoghelandus.</bibl>
+               </p>
+               <p>Take the quantity, know the weight of it, and add to it as much of the humidity as it can drink; of which humidity, we have not the pondus determinate. <hi>Calrd Aegyptius.</hi> The Time of every Imbibition to its Exſicca<g ref="char:EOLhyphen"/>tion is Twenty or Thirty Natural dayes.</p>
+               <p>
+                  <bibl>
+                     <hi>Clangor Buccinae.</hi>
+                  </bibl>
+               </p>
+            </div>
+            <div type="part">
+               <head>IGNIS MAGOR<g ref="char:V">Ʋ</g>M. The Philoſophers Fire. ECHO VII.</head>
+               <p>OUr fire is Mineral, Equall, Continuall<g ref="char:punc">▪</g> it vapors not unleſſe excited too much, it partakes of Sulphur, it is taken from ſome other Thing than the Materia, it breaks down all before it, Diſſolves, Congeales, and Calcines: That Fire, with a Fire Remiſſe, perfects the whole work, and makes all the right Sublimations.</p>
+               <p>
+                  <bibl>
+                     <hi>Pontanus pag.</hi> 75. <hi>uti et in Epiſtola.</hi>
+                  </bibl>
+               </p>
+               <p>The Fire againſt Nature muſt torment the bodyes, That is the Dragon burning violent<g ref="char:EOLhyphen"/>ly, like fire of hell, <hi>Ripleus.</hi> All along, the fire muſt be gentle till the Water be congealed in Whiteneſſe. A ſtronger heat given, the
+<pb n="77" facs="tcp:170553:45"/> Mercury flyes the fire by reaſon of its Frigi<g ref="char:EOLhyphen"/>ditie. Therefore keep thy fire ſoft, till thou haſt a white Congelation. <bibl>
+                     <hi>Benedictus.</hi>
+                  </bibl>
+               </p>
+               <p>By a Temperate fire a little quantity of the Drie Deſiccates ethe moyſt, and this by little and little, and not ſuddainly. And by how much the Stone has more of the Ablu<g ref="char:EOLhyphen"/>tion, ſo much the more Intenſe is the white<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>
+                  <bibl>
+                     <hi>Scotus de Bufone.</hi>
+                  </bibl>
+               </p>
+               <p>The fire of the firſt Degree, that is of So<g ref="char:EOLhyphen"/>lution, and Putrefaction, ought to be ſo weak, that Nothing Aſcend of the Nature to be Sublimed, and ſo a gentle fire gives Mercury Ingreſſe into the body, when with a ſtrong one all is deſtroyed.</p>
+               <p>
+                  <bibl>
+                     <hi>Saturninus pag.</hi> 71.</bibl>
+               </p>
+               <p>The heat <hi>Dealbant</hi> muſt not be too much, elſe all is gone. But underſtand this of the firſt White after Nutrition, <hi>Anonym.</hi> Make thy Contritions with fire, not with thy hands. <hi>Argent vive</hi> is fierie, and burns the bodyes more then fire; whatever Metallic body is joyned to it, it ſlayes it and brings it down to duſt.</p>
+               <p>
+                  <bibl>
+                     <hi>Synodus Pythagorica.</hi>
+                  </bibl>
+               </p>
+               <p>Although we alwayes ſpeak of Slow-fire, yet in earneſt we think, that in the Go<g ref="char:EOLhyphen"/>vernment of the work, by little and little, and at Turnes, the fire to the End, is to be
+<pb n="78" facs="tcp:170553:46"/> Augmented. <bibl>
+                     <hi>Bacho. Spec. Alchym. cap.</hi> 4.</bibl>
+               </p>
+               <p>There are onely Two fires found in the books of the Philoſophers: The one dry, the other moyſt: The Dry is the Elemental, The moyſt is Mercury. <bibl>
+                     <hi>Alanus Niger.</hi>
+                  </bibl>
+               </p>
+               <p>As oft as occaſion ſhall require, heat and cool, moyſten and deſiccate thy Earth, and there is no Error. So oft as thy veſſels are broke, thy matter muſt cool, to be re<g ref="char:EOLhyphen"/>poſed in a like veſſell, and put again to the fire. <bibl>
+                     <hi>Greverius Sacerdos.</hi>
+                  </bibl>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Philoſophers veſſel; The Cone, or Oval; The Colours of the Chao's; Tranſienr, and Critical. ECHO. VIII.</head>
+               <div type="subpart">
+                  <p>THE veſſel muſt be Glaſſe, and Round, with a long Neck, firmly Sealed on the Top, and is to be Encloſed with another Veſſel, that the heat enter not the matter im<g ref="char:EOLhyphen"/>mediately, and ſo the Digeſtion is in a Triple veſſel. <bibl>
+                        <hi>Liber Trium Verborum, pag.</hi> 49.</bibl>
+                  </p>
+                  <p>Put thy <hi>Amalgam</hi> carefully into a Glaſſe-veſſel of ſuch a capacity, that thy Earth that is ſown and harrowed, may take up on<g ref="char:EOLhyphen"/>ly the Third part of it, the other two left vacant. Cloſe up the orifice with the wiſeſt Lute. <bibl>
+                        <hi>Jodoc. Grever.</hi>
+                     </bibl>
+                  </p>
+                  <pb n="79" facs="tcp:170553:46"/>
+                  <p>Set one halfe of the round of the Veſſel into Aſhes, the other beare above, that thou mayſt look at pleaſure upon the work.</p>
+                  <p>
+                     <bibl>
+                        <hi>Alanus.</hi>
+                     </bibl>
+                  </p>
+                  <p>The veſſels are Glaſſe, wide below, termi<g ref="char:EOLhyphen"/>nating in an Acute, like the figure called a Cone. <bibl>
+                        <hi>Vogelius.</hi>
+                     </bibl>
+                  </p>
+                  <p>Think not That the Philoſophers lye when they ſay, The whole Magiſtery is per<g ref="char:EOLhyphen"/>fected, in one only veſſel: when thou heareſt them ſay ſo, think preſently of the Species of the veſſel, not of the Individual, and thou haſt found the Truth. <bibl>
+                        <hi>Greverius.</hi>
+                     </bibl>
+                  </p>
+                  <p>We need but one Veſſel, one Furnace, one Diſpoſition; which is to be underſtood, After the preparation of the firſt Stone.</p>
+                  <p>
+                     <bibl>
+                        <hi>Flamellus in Democritum.</hi>
+                     </bibl>
+                  </p>
+                  <p>Our veſſel is a Glaſſe, firmely ſhut, round bellied, of a neck ſtrict and long, halfe a foot, or thereabout. This veſſel is called an Egge, a Sublimatory, a Sphear, a Sepulcher, a Cucurbit, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <bibl>
+                        <hi>Laurentius ventura Italus.</hi>
+                     </bibl>
+                  </p>
+                  <p>Put thy matter into a Glaſſe-veſſel Round and ſtrong, the Orifice ſtrait, and ſealed that it cannot expire the leaſt fume.</p>
+                  <p>
+                     <bibl>
+                        <hi>Scotus de Bufone.</hi>
+                     </bibl>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <pb n="80" facs="tcp:170553:47"/>
+                  <head>The Colours.</head>
+                  <p>When the matter has ſtood for the ſpace of forty dayes in a moderate heat, there will begin to appear above, a blackneſſe like to pitch, which is the <hi>Caput Corvi</hi> of the Philo<g ref="char:EOLhyphen"/>ſophers, and the wiſe men's Mercury.</p>
+                  <p>
+                     <bibl>
+                        <hi>Alanus.</hi>
+                     </bibl>
+                  </p>
+                  <p>Blackneſſe once ſeen, thou mayſt be ſure a True Conjunction of the principles is made.</p>
+                  <p>Before the clear Splendent colour comes, all the Colours in the world will appear and diſappear: then thou ſhalt ſee an admi<g ref="char:EOLhyphen"/>rable whiteneſſe, that it will ſeem to thee the True whiteneſſe, and yet it is not ſo. Before the True whiteneſſe comes, thou ſhalt ſee all about in the margin of the Glaſs as it were Oriental pearls, in the matter of the Stone, glittering like the Eyes of fiſhes, and when thou ſeeſt the Matter white as Snow, and ſhining like orientall gemms, The white ſtone is then perfect. Let it cool of Itſelf. <bibl>
+                        <hi>Iſaacus Flander.</hi>
+                     </bibl>
+                  </p>
+                  <p>The Colours are only Three, the others that come are called the middle Colours, that vaniſh away: But the Black, White, and Red, are Eminent and laſting Scenes.</p>
+                  <p>
+                     <bibl>
+                        <hi>Trithemius.</hi>
+                     </bibl>
+                  </p>
+                  <p>When in the work blackneſſe appears,
+<pb n="81" facs="tcp:170553:47"/> know that thou haſt found the right way of working. Then rejoyce, for God has given thee a very Great and pretious Gift.</p>
+                  <p>
+                     <bibl>
+                        <hi>Phoenix. pag.</hi> 71.</bibl>
+                  </p>
+                  <p>
+                     <hi>In horâ Conjunctionis mirabilia maxima ap<g ref="char:EOLhyphen"/>parent. Nam omnes Colores quotquot Excogrtari poſſunt,</hi> &amp;c. In the hour of Conjunction wonderfull things preſent themſelves appa<g ref="char:EOLhyphen"/>rent to us. For all the Colours that can be Imagined, appear in the work; and the Im<g ref="char:EOLhyphen"/>perfect body is colour'd with a firm Colo<g ref="char:EOLhyphen"/>ration, by mediation of the Ferment.</p>
+                  <p>
+                     <bibl>
+                        <hi>Arnaldus in Flore Florum.</hi>
+                     </bibl>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Time to perfect the phyſick-work. ECHO. IX.</head>
+               <p>This work cannot be perfected in a little ſpace of Time; therefore the Artiſt muſt be patient. <bibl>
+                     <hi>Greverius.</hi>
+                  </bibl>
+               </p>
+               <p>The ſhorteſt Time of the preparation is the Circuit and Revolution of the Greater luminary. For the Stone muſt be kept in the fire, till it cannot any more be changed from one nature to another, from one Colour to another, but become like the Reddeſt blood running like wax in the fire, and yet dimini<g ref="char:EOLhyphen"/>ſhing nothing at all. <bibl>
+                     <hi>Laurentius Ventura, Italus.</hi>
+                  </bibl>
+               </p>
+               <p>We take a year for our Expectation; for our Calx, in leſſe Time, cannot be made. <bibl>
+                     <hi>Ri<g ref="char:EOLhyphen"/>pleus.</hi>
+                  </bibl>
+               </p>
+               <pb n="82" facs="tcp:170553:48"/>
+               <p>The Philoſophers ſeeing a ſort of white<g ref="char:EOLhyphen"/>neſſe come, after a long Time, of the Colour of Aſhes, called it Incineration, or Dealba<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <bibl>
+                     <hi>Idem cap</hi> 112.</bibl>
+               </p>
+               <p>In purification there cannot be a deter<g ref="char:EOLhyphen"/>minated Time, but in ninety dayes the Red work is completed.</p>
+               <p>Variation of Times happens from the quantity of the med'cin, and according to the Induſtry of the Artiſt.</p>
+               <p>
+                  <bibl>
+                     <hi>Monach. pag.</hi> 17.</bibl>
+               </p>
+               <p>After the firſt fifty dayes, the <hi>Caput Corvi</hi> ſhows it ſelf; from thence in an hundred and fifty the Dove is made; and in another hun<g ref="char:EOLhyphen"/>dred and fifty, the Red is wrought. Till you come up to whiteneſſe, uſe a Gentle fire.</p>
+               <p>
+                  <bibl>
+                     <hi>Saturninus.</hi>
+                  </bibl>
+               </p>
+               <p>When it has ſtood under an Eclipſe for five months, and the Darkneſſe recedes, the light ſupervening, Encreaſe your fire.</p>
+               <p>
+                  <bibl>
+                     <hi>Scala philoſ. Ripleus etiam.</hi>
+                  </bibl>
+               </p>
+               <p>The Time for perfection of <hi>Elixir</hi> is at leaſt one year.</p>
+               <p>
+                  <bibl>
+                     <hi>Roſarius. pag.</hi> 179.</bibl>
+               </p>
+               <p>Be patient in extracting thy Tincture; for haſte is the firſt Error of Art, and burns all.</p>
+               <p>
+                  <bibl>
+                     <hi>Anonymus.</hi>
+                  </bibl>
+               </p>
+               <p>In forty dayes and nights, after the True purification of the Stone, the work to White is compleat: becauſe in the purification
+<pb n="83" facs="tcp:170553:48"/> there cannot be a Set time; but in ninety dayes and nights, the work to the Red is per<g ref="char:EOLhyphen"/>fected.</p>
+               <p>
+                  <bibl>
+                     <hi>Roſarium Vetuſtum.</hi>
+                  </bibl>
+               </p>
+               <p>The firſt Decoction has no certain Time and indeed is ſomewhat Taedious: yet waite upon it, and Expect it with joy. Many have periſht with haſte and affected with Tediouſ<g ref="char:EOLhyphen"/>nes given over all.<bibl> 
+                     <hi>Phoenix. Liber pretioſiſſimus.</hi>
+                  </bibl>
+               </p>
+            </div>
+            <div type="part">
+               <div type="subpart">
+                  <head>The Fermentation of The Stone. ECHO. X.</head>
+                  <p>FErment is made after the <hi>Ortus,</hi> or Birth of the Infant. And <hi>Ferment</hi> is nothing but meat Diſpoſed to a Convertibility into the Eſſence of the Infant, that all may be made of one nature. This fermentation Ci<g ref="char:EOLhyphen"/>bal, ought to be <hi>de ſuâ propriâ naturâ</hi> of the Infant's own nature, and aſſimilated to it; elſe there will be no Incorporation, no conver<g ref="char:EOLhyphen"/>ſion into Sulphur.</p>
+                  <p>
+                     <bibl>
+                        <hi>Lullius in Codrcrl.</hi>
+                     </bibl>
+                  </p>
+                  <p>
+                     <hi>Ferment</hi> muſt not be of this or that, but of Sol or Luna only: For we look for nothing but that the Stone be turned into his like and from them is the whole Temperament: nor is it Ferment before the Bodyes be tur<g ref="char:EOLhyphen"/>ned into their firſt matter.</p>
+                  <p>
+                     <bibl>
+                        <hi>Vogelius pag.</hi> 10.</bibl>
+                  </p>
+                  <p>Infermentation ſee that the Summe of the
+<pb n="84" facs="tcp:170553:49"/> volatil do not exceed the Summe of the fixt: otherwiſe the Sponſal Ligament of the body would be put to flight. But if a little of the Sulphur be caſt upon much of the body, ſo that it has the dominion over it, it ſoon con<g ref="char:EOLhyphen"/>verts it into Duſt; the Colour whereof is as the Colour of the body, one ounce of the Duſt four of the Body.</p>
+                  <p>
+                     <bibl>
+                        <hi>Anonymus Incipiens Deſiderabile.</hi>
+                     </bibl>
+                  </p>
+                  <p>Know that there is no Ferment, but Sol &amp; Luna.</p>
+                  <p>
+                     <bibl>
+                        <hi>Arnaldus in Flore Florum.</hi>
+                     </bibl>
+                  </p>
+                  <p>Fermentation is the Animation of the Stone.</p>
+                  <p>
+                     <bibl>
+                        <hi>Clauger. pag.</hi> 46.</bibl>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>Of the nature of both, and the mutation of their ſubſtance.</head>
+                  <p>He that is able to turne the Soul to a Body, and the Body to a Soul, and mingle with it Subtile Spirits, is able to Tinge every Body.</p>
+                  <p>
+                     <bibl>
+                        <hi>Calid Egyptius.</hi>
+                     </bibl>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Multiplication, and Projection of the Tincture. ECHO. XI.</head>
+               <div type="subpart">
+                  <p>IT is impoſſible to multiply the central ſalt without Gold, But the Sons of Art only know the True ſeed of Metalls.</p>
+                  <p>
+                     <bibl>
+                        <hi>Novum lumen Chymicum.</hi>
+                     </bibl>
+                  </p>
+                  <p>Multiplication is either Virtual; Such as is
+<pb n="85" facs="tcp:170553:49"/> made by Alteration, by Diſſolving and Con<g ref="char:EOLhyphen"/>gealing; or Quantitative, by Appoſition of new Matter.</p>
+                  <p>
+                     <bibl>
+                        <hi>Scotus de Bufone.</hi>
+                     </bibl>
+                  </p>
+                  <p>The Quantitative is Nothing elſe but the Augmentation of the Tincture from one pondus ad infinitum: So that the Worke is never again to be begunne, and this Without the Diminution of its force. <bibl>
+                        <hi>Incertus.</hi>
+                     </bibl>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>Projection upon Metalls,</head>
+                  <p>No Projection of the Red ſtone but upon Luna,</p>
+                  <p>
+                     <bibl>
+                        <hi>Iſaac Flander.</hi>
+                     </bibl>
+                  </p>
+                  <p>If thou would'ſt make Projection upon Jupiter, melt it in a Crucibrrr rrd put to one pound of Jupiter one orrce of pure Luna, and melt them together; then caſt on it thy White Tincture, and the Jupiter ani<g ref="char:EOLhyphen"/>mation of the Stone. <bibl>
+                        <hi>Clang:</hi>
+                     </bibl>
+                  </p>
+                  <p>If Thou put to It but Little of Ferment thou ſhalt have but little Tincture. <bibl>
+                        <hi>Daſtinus pag.</hi> 30.</bibl> 
+                  </p>
+                  <p>When the ſtone is liquefied by Decoction, it muſt then be Coagulated, But this Coagu<g ref="char:EOLhyphen"/>lation is made with Ferment, or with its owne body, which is the ſame thing.</p>
+                  <p>When the Anima Candida is perfectly ri<g ref="char:EOLhyphen"/>ſen, the Artiſt muſt joyn it, the ſame moment, with its body: For the Anima without its body cannot be held. But ſuch an Union muſt be made by mediation of the Spirit:
+<pb n="86" facs="tcp:170553:50"/> becauſe the Anima cannot have life in the body nor perſeverance in it, but by the Spirit: And ſuch an Union and Conjunction is the end of the Work. The Soul muſt be joyned with the Firſt body whence it was, and with no other; which if thou doſt not, thou ſhalt faile of thy purpoſe, as many Ig<g ref="char:EOLhyphen"/>norants have done who knew not this Secret</p>
+                  <p>
+                     <bibl>
+                        <hi>Margarita Novella.</hi>
+                     </bibl>
+                  </p>
+                  <p>Spirits are fugitive, untill ſuch Time as bodyes are joyned with them, and help them to fight againſt the fire: and yet thoſe parts agree but little, unleſs with good Operation, and Continued labour: becauſe the nature of the rwordr Tendent Upwards, where the Centre rr the Anima is. And who is he of thoſe that have tryed, that was able to Conjoyne Two Things that are Diverſe, whoſe Centers too are Divers? unleſs after the Converſion ſhall be tranſmuted into True Luna, leſs or more, according to the Spirituality of the ſtone? And if thou woul<g ref="char:EOLhyphen"/>d'ſt Work with thy Red Stone, project it upon Luna Molten, and thou ſhalt finde the pureſt Sol.</p>
+                  <p>Caſt thy medicin upon thy Ferment, then it is frangible as Glaſle. Take that frangible maſſe, and caſt it upon metals firſt clear'd, and thou ſhalt have metal of proofe.</p>
+                  <p>
+                     <bibl>
+                        <hi>Ripleus Anglus,</hi>
+                     </bibl>
+                  </p>
+                  <p>This Secret thou muſt not be Ignorant of,
+<pb n="87" facs="tcp:170553:50"/> That our Red man, and his wife do not Tinge till they are Tinged.</p>
+                  <p>
+                     <bibl>
+                        <hi>Evoaldus.</hi>
+                     </bibl>
+                  </p>
+                  <p>Would any man by the Phyſic Stone turn lead into Gold or Silver? Then he muſt firſt mingle with it the Subſtance of Lead, that both may become one Thing; In the ſame way he muſt proceed with Tin, and Copper.</p>
+                  <p>
+                     <bibl>
+                        <hi>Idem. pagin.</hi> 123.</bibl>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Virtues of the Great Elixir, or Aſtral medicin. ECHO XII.</head>
+               <p>THIS Chymic-powder, whether you call it the Philoſophers ſtone or fulſile Salt; Sulphur, Elixit, or potable Gold, has in it a wonderfull power over the Three Di<g ref="char:EOLhyphen"/>viſions of nature, the Animal, Vegetal, and Mineral Kinds. Thus firſt on the Animal: E<g ref="char:EOLhyphen"/>very Animal, brute, or man, it brings to Sani<g ref="char:EOLhyphen"/>ty from every diſeaſe within, or without. All defections from natural Symmetry are reduced by it to Temperament, becauſe there is in it a perfect Aequation of Elements ſeparate from their dreggs, and all Sulphure<g ref="char:EOLhyphen"/>ous Aduſtions. On the Vegetal; It acts won<g ref="char:EOLhyphen"/>derfully by Exciting their Genital power in their ſeaſons, or out of them, to a moſt flo<g ref="char:EOLhyphen"/>rid vegetation. In the mineral; Every Imper<g ref="char:EOLhyphen"/>fect metallic body, Lead, Tin, Copper, com<g ref="char:EOLhyphen"/>mon Argent vive, it transformes to Silver, or
+<pb n="88" facs="tcp:170553:51"/> Gold better then the natural in every pro<g ref="char:EOLhyphen"/>bat. Pretious Stones too.; the Emerald, the Carbuncle, the Anthrax, or Rubie, Chryſo<g ref="char:EOLhyphen"/>praſe, Adamant, Chryſolite, and many others, are made by it, <bibl>
+                     <hi>Rob. Vallenſis.</hi>
+                  </bibl>
+               </p>
+               <p>By long Inquiſition, Labour, and certain Experience, we have found one medicin; by which, that which is hard may be made ſoft, and that which is ſoft may be made hard, that which is fugitive be fixt, that which is foul and dark, be Illuſtrated with a wonderfull ſplendor. <bibl>
+                     <hi>Geber Arabs.</hi>
+                  </bibl>
+               </p>
+               <p>Wrincles of the face, every litura or ſpot, gray haires, it takes away, and keeps us in perpetual youth, and cheerfulneſſe. <bibl>
+                     <hi>Clangor.</hi>
+                  </bibl>
+               </p>
+               <p>The Cryſtallin Lamen cures the moſt Diſeaſes; the Red Elixir all; makes a man grow young like the Eagle, and has produced the lives of ſome to above five hundred years.</p>
+               <p>
+                  <bibl>
+                     <hi>Geber.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <hi>Arteph</hi> the Jew when he wrote his book, affirmes he had lived a thouſand and five and twenty years.</p>
+               <p>
+                  <bibl>
+                     <hi>Rogerius Bacho, de Artis mirabili poteſtate.</hi>
+                  </bibl>
+               </p>
+               <p>By its Ethereal, humid, oleous fire, it gives us youth; by its Tincture, it transforms the Imperfect, to the perfect Mines; makes vari<g ref="char:EOLhyphen"/>ous ſorts of pretious ſtones, with the moſt pretious malleable Glaſſe.</p>
+               <p>
+                  <bibl>
+                     <hi>Charta Sacer dorum. Et Chorus Omnium.</hi>
+                  </bibl>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="89" facs="tcp:170553:51"/>
+               <head>The way to attain to this Sacred Science. ECHO. XIII.</head>
+               <p>FEar God, you that look after this Sacred Skill: For that which you ſeek is not a ſmall Thing, but the Treaſure of Treaſures, the Gift of God, moſt Excellent, and Admi<g ref="char:EOLhyphen"/>rable.<bibl> 
+                     <hi>Bacaſer in Synod. Pythag.</hi>
+                  </bibl>
+               </p>
+               <p>He that is Idle and Negligent in the Rea<g ref="char:EOLhyphen"/>ding of books, ſhall never be prompt in the preparation of Things: for one book opens another, one ſpeech explicates another; and that which in one is Incompleat, in another is compleated. And how can he that refuſes the Theorie, apply himſelfe to the regular practice?<bibl> 
+                     <hi>Arnaldus in Roſario.</hi>
+                  </bibl>
+               </p>
+               <p>Follow it with the Inſtance of labour, but firſt exerciſe thyſelf in a diuturnity of Intenſe Imagination: for ſo thou mayſt find the com<g ref="char:EOLhyphen"/>pleat Elixit; but without that, never at all.</p>
+               <p>
+                  <bibl>
+                     <hi>Idem lib.</hi> 2 <hi>Roſar.</hi>
+                  </bibl>
+               </p>
+               <p>Serious Study (our Doctors ſay) removes Ignorance, and brings the human Intellect up to the knowledge of Every Thing.</p>
+               <p>
+                  <bibl>
+                     <hi>Richardus Anglicus.</hi>
+                  </bibl>
+               </p>
+               <p>Think not to find out our profound ſenſe by the ſound of the letter: for he that takes the ſound of the words, and has not the hid<g ref="char:EOLhyphen"/>den ſenſe too, ſhall loſe his Labour, and his Coſt.<bibl> 
+                     <hi>Aurora.</hi>
+                  </bibl>
+               </p>
+               <p>If thou canſt Reſolve even the leaſt of our
+<pb n="90" facs="tcp:170553:52"/> Sayings, the Greateſt cannot be hid from thee. <bibl>
+                     <hi>Aurora Conſurgens prolog.</hi>
+                  </bibl>
+               </p>
+               <p>All wiſdome is from God, and was always with him from eternity. Whoſoever therfore loves wiſdome, let him ſeek it, and begge it from him: for he is the Altitude and profun<g ref="char:EOLhyphen"/>dity of all Science, the Treaſure of all wiſe<g ref="char:EOLhyphen"/>dome; becauſe from him, in him, and by him all things are, and without his will nothing can be: To whom be glory for evermore.</p>
+               <p>
+                  <bibl>
+                     <hi>Albertus magnus de Alchymia.</hi>
+                  </bibl>
+               </p>
+               <p>It is impoſſible that This ſhould beknown unleſs it be known from God, or from a maſter. <bibl>
+                     <hi>Roſarium Philoſoph: pag:</hi> 230</bibl>
+               </p>
+               <p>The Artiſt muſt be prudent, and of a witt naturally ſubtile, &amp; profound, and excellent in the Ability to Judge. He muſt be learned likwiſe; that what his wit reaches not to, that may be ſupplied by his learning: For whoſo<g ref="char:EOLhyphen"/>ever aſpires to this Science, and is not a phi<g ref="char:EOLhyphen"/>loſopher, is a fool. He muſt be Induſtrious, Laborious, and of a Conſtant mind; not preci<g ref="char:EOLhyphen"/>pitant; but very patient: For all haſtineſs (ſaies our <hi>Geber)</hi> is from the Devill. He muſt be at his owne election, and free; not held by other buſineſses and cares.</p>
+               <p>He muſt have money enough for his prac<g ref="char:EOLhyphen"/>tice, and books enough for his ſtudy. <bibl>
+                     <hi>Theobald Hogheland.</hi>
+                  </bibl>
+               </p>
+               <p>And above all he muſt be jealous over the Secret, and keep it ſeverely to himſelfe. <bibl>
+                     <hi>Idem Hogheland,</hi>
+                  </bibl>
+               </p>
+               <pb n="91" facs="tcp:170553:52"/>
+               <p>I adjure thee by the living God, whoſoever thou art that haſt this book in thy hands, that thou offer it not to any of the Un<g ref="char:EOLhyphen"/>worthy; ſuch as are Fools, Tyrants, Opreſ<g ref="char:EOLhyphen"/>ſors, Covetous, Proud perſons, Adulterers, ſoft Amorato's, or ſuch whoſe belly is their God. Place thy hope in the Lord God, work in his feare to the good of man, expecting the bleſſing from above.<bibl> 
+                     <hi>Jodoc: Grever. initio Lib.</hi>
+                  </bibl>
+               </p>
+               <p>Thou who haſt this book, hide it in thy bo<g ref="char:EOLhyphen"/>ſome, diſcover it to none, offer it not to Impious hands: for it fully containes in it, the very <hi>Secretum Secretorum</hi> of the Philoſo<g ref="char:EOLhyphen"/>phers. Such a pretious Jewel as This, is not to be caſt before Swine. Therefore thou that haſt the book, lay thy hand upon thy mouth, that deſervedly thou mayſt be ſaid to be, and be, of the Number of the Ancient Magi.</p>
+               <p>
+                  <bibl>
+                     <hi>Arnaldus in Roſario. lib</hi> 2. <hi>cap.</hi> 32.</bibl>
+               </p>
+            </div>
+            <trailer>FINIS <hi>Antri.</hi>
+            </trailer>
+         </div>
+         <div type="alchemical_treatise">
+            <pb n="92" facs="tcp:170553:53"/>
+            <head>
+               <hi>JOHN PONTANUS</hi> UPON The mineral Fire; and the Great Elixir, commonly call'd The Philoſophers <hi>STONE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>John Pontan</hi> have travel'd over many Regions, That I might learn ſomething that was cer<g ref="char:EOLhyphen"/>tain concerning the Philoſo<g ref="char:EOLhyphen"/>phers ſtone; and, compaſſing almoſt the whole World, met with none but Impoſtors, falſe Deceivers, and no Philoſophers: But ſtudying alwayes, doubting much, and caſting every way, at length I found the Truth: But when I knew the matter, I erred two hundred Times be<g ref="char:EOLhyphen"/>fore I found the True Matter, which the o<g ref="char:EOLhyphen"/>peration, and practice upon it. Firſt, I fell to putrefie the matter nine months toge<g ref="char:EOLhyphen"/>ther, and found nothing: I put it in St. <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> Bath for a certain Time, and erred in That, as before. Then for Three months I
+<pb n="93" facs="tcp:170553:53"/> put it to a fire of Calcination, and wrought amiſſe: all manner of Diſtillations, and Sub<g ref="char:EOLhyphen"/>limations, ſuch as the Philoſophers, as <hi>Geber, Archelaus,</hi> and almoſt all the reſt, ſay, or ſeem to ſay, ſhould be uſed, I practiſed; and found nothing ſtill. Then again I tryed to perfect the ſubject of the whole Alchymical Art, all the wayes that can be imagined; by baths, by dungs, by Aſhes, and a multiplicity of o<g ref="char:EOLhyphen"/>ther fires, which yet are found in the Philo<g ref="char:EOLhyphen"/>ſophers books; and yet for all that I found no good. Wherefore, for Three years conti<g ref="char:EOLhyphen"/>nued, I ſtudied in the Philoſophers books, but chiefly the books of <hi>Hermes</hi> alone, whoſe ſhorter words comprehend the whole Stone; although he ſpeaks obſcurely of the Superior, and Inferior, of the Heaven, and of the Earth. The firſt Inſtrument therefore that brings the matter to its Eſſe in the Firſt, Second, and Third work, is not the Fire of the Bath, nor of Dung, nor Aſhes, nor of the other heats which the Philoſo<g ref="char:EOLhyphen"/>phers have in their books. What there<g ref="char:EOLhyphen"/>fore is That Fire that perfects the whole worke from the Beginning to the End? Certainly the Philoſophers have alwais con<g ref="char:EOLhyphen"/>ceal'd it; but I being moved with piety, and kindneſſe to men, will declare it to you, to<g ref="char:EOLhyphen"/>gether with the complement of the whole work. It is then the Philoſophers Stone, but is called by various names, and thou ſhalt find
+<pb n="94" facs="tcp:170553:54"/> it hard to know: For it is Watry, Aery, Fiery and Earthy; Phegmatic Choleric, and Melan<g ref="char:EOLhyphen"/>cholic; it is Sulphureous, and is likewiſe Ar<g ref="char:EOLhyphen"/>gent vive: and has many ſuperfluities in it: all which, by the Living God, are turned into a True Eſſence, Our Fire mediating: And he that ſeperates any thing from the Sub<g ref="char:EOLhyphen"/>ject thinking that neceſsary, knowes, nothing in Philoſophy; becauſe what ever is ſuperflu<g ref="char:EOLhyphen"/>ous, unclean, foul or faeculent, finally the whole Subſtance of the Subject; is perfected to a Spiritual body fixt, by mediation of Our fire. And this the Philoſophers never re<g ref="char:EOLhyphen"/>vealed, and therefore few come at the Art, thinking there is, Some ſuch ſuperfluous Nature to be removed. And now we are to draw out the properties of Our Fire, and try, whether according to the manner that I have ſaid, It be ſo fitted to our matter, that it may be Tranſmuted by it, ſince That Fire burns not the matter, ſeparates nothing from it, parts not the pure from the Impure (as all philo<g ref="char:EOLhyphen"/>ſophers ſay) but turnes the whole ſubject to purity: It does not ſublime as <hi>Geber</hi> make his Sublimations &amp; as <hi>Arnaldus,</hi> and other ſpeaking of Subbli-mation and and Diſtilla<g ref="char:EOLhyphen"/>tions, Such as are perfected in a ſhort time.</p>
+            <p>It is Mineral, it is Equal, It is Continual, it vapours not away unleſs it be ſtirr'd up too much; it alſo partakes of Sulphur, and is taken from ſome where elſe than from the matter; it puls down all, diſsolves and con<g ref="char:EOLhyphen"/>geales,
+<pb n="95" facs="tcp:170553:54"/> congeales and Calcines: the Inven<g ref="char:EOLhyphen"/>tion of It is Artifical: it is a Compendium without Coſt, or with very little; and That Fire is of a moderate Ignition, becauſe with a remiſs Fire the whole work is perfected, and all the right ſublimations made. Whoſoever ſhould read <hi>Geber,</hi> and all the reſt, if they ſhould live an hundred thouſand yeares, would not be able to comprehend it, becauſe that Fire is found only by profound Imagi<g ref="char:EOLhyphen"/>nation; and then it may be comprehended in the books, and not before. The Error there<g ref="char:EOLhyphen"/>fore of this Art, is, not to find the Fire, which turnes the whole matter into the true Stone of the Philoſophers. Take it then for thy ſtu<g ref="char:EOLhyphen"/>dy; for if I had found this Fire at firſt, I had not erred two hundred Times in my practice up<g ref="char:EOLhyphen"/>on the matter: wherefore I wonder not, that ſo many, and great Wits, have not come at the work. They erre, have erred, and will erre ſtill, becauſe the Philoſophers have not ſet downe the proper Agent; one only ex<g ref="char:EOLhyphen"/>cepted, <hi>Artephius</hi> by name, but he ſpeaks for himſelfe; and if I had not read <hi>Artephius</hi> and heard him what he ſaid, I had never at<g ref="char:EOLhyphen"/>tain'd the perfect work. But this is the prac<g ref="char:EOLhyphen"/>tice. Take it, bruiſe it, and bring it down diligently by Naturall Contrition, and put it to the Fire, and know the proportion of your Fire, namely that it is to be no ſtronger then only to Excite the matter, and in a ſhort
+<pb n="96" facs="tcp:170553:55"/> time even that Fire without any appoſition of hands, will certainly compleat the whole work; for it will putrefy, Corrupt, Generate, and perfect, and make to appear in their times the three Principal Colours, Black, White, and Red. And by mediation of our Fire, the Med'cin will be multiplyed if it be joyn'd with Crude matter, not only in quantity, but alſo in virtue. Therefore with all thy power look after thy Fire, and thou mayſt proſper in thy Work, becauſe it does the whole Worke, and is the key of the Philoſophers which they never diſcover'd. But thou ſhalt come to know it by a right, profound thinking upon the properties of the Fire ſet down before, and no otherwayes. This I writt out of piety, and that I may ſatisfy thee fi<g ref="char:EOLhyphen"/>nally; The Fire is not Tranſmuted with the matter, becauſe It is not of the Matter, as I told you before. Thus much I had a mind to ſay, and admoniſh the prudent, that they ſpend not their money to no purpoſe, but that they ſhould know what they are to look for, and ſo they may attaine to the Truth and no Other way.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
